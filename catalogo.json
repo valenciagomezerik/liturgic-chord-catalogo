@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Canto de ejemplo para la entrada",
+    "categoria": "Entrada",
+    "tonoOriginal": "DO",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[DO]Venimos a tu casa [SOL]con alegría\n[LAm]Cantando juntos [FA]este día\n\n[DO]Hoy nos reúnes, [SOL]Señor\n[FA]Bienvenidos a tu [DO]altar"
+  },
+  {
+    "id": 2,
+    "titulo": "Canto de ejemplo para el Gloria",
+    "categoria": "Gloria",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Gloria a Dios en el [LA]cielo\n[SIm]Y en la tierra [SOL]paz\n\n[RE]Te alabamos, te [LA]bendecimos\n[SOL]Te damos gracias, [RE/FA#]Señor"
+  },
+  {
+    "id": 3,
+    "titulo": "Canto de ejemplo para la comunión",
+    "categoria": "Comunión",
+    "tonoOriginal": "LA",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[LA]Pan que nos das [MI]vida\n[FA#m]Mesa de unión [RE]fraterna\n\n[LA]Hoy te recibimos, [MI]Señor\n[RE]Quédate con [LA]nosotros"
+  },
+  {
+    "id": 4,
+    "titulo": "Canto de ejemplo para la salida",
+    "categoria": "Salida",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]Vamos en paz, [RE]vamos a servir\n[MIm]Llevando tu [DO]luz\n\n[SOL]Gracias, Señor, [RE]por este día\n[DO]Hasta la [SOL]próxima"
+  }
+]
