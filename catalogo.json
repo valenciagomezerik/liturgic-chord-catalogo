@@ -1,38 +1,155 @@
 [
   {
     "id": 1,
-    "titulo": "Canto de ejemplo para la entrada",
+    "titulo": "QUE ALEGRÍA CUANDO ME DIJERON",
     "categoria": "Entrada",
-    "tonoOriginal": "DO",
+    "tonoOriginal": "MIm",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[DO]Venimos a tu casa [SOL]con alegría\n[LAm]Cantando juntos [FA]este día\n\n[DO]Hoy nos reúnes, [SOL]Señor\n[FA]Bienvenidos a tu [DO]altar"
+    "letraConAcordes": "[MIm]Qué ale[LAm]gría [MIm]cuando me di[SI7]jeron\n[MIm]vamos [SI7]a la casa del Se[MIm]ñor\n[MIm]permaneciendo en [LAm]Jerusalén\n[SI7]en las puertas de la casa de [MIm]Dios (2)\n\n[MIm]Mira oh Je[SI7]rusalén\nOra por paz Jerusalén\n[LAm]y prosperidad a tu [MIm]casa\n[SI7]paz dentro de tus murallas\n[LAm]que solo de Dios [MIm]viene\n[LAm]la ciudad restau[MIm]rada\n[SI7]aquí las tribus de Yavé\n[LAm]son una en el Se[MIm]ñor\n\n[MIm]Como lo ordenó a Is[SI7]rael\n[LAm]vienen a alabar su [MIm]nombre\n[SI7]aquí donde la justicia\n[LAm]la justicia de David [MIm]reina"
   },
   {
     "id": 2,
-    "titulo": "Canto de ejemplo para el Gloria",
-    "categoria": "Gloria",
-    "tonoOriginal": "RE",
-    "linkYouTube": "",
-    "archivoAudio": "",
-    "letraConAcordes": "[RE]Gloria a Dios en el [LA]cielo\n[SIm]Y en la tierra [SOL]paz\n\n[RE]Te alabamos, te [LA]bendecimos\n[SOL]Te damos gracias, [RE/FA#]Señor"
-  },
-  {
-    "id": 3,
-    "titulo": "Canto de ejemplo para la comunión",
-    "categoria": "Comunión",
-    "tonoOriginal": "LA",
-    "linkYouTube": "",
-    "archivoAudio": "",
-    "letraConAcordes": "[LA]Pan que nos das [MI]vida\n[FA#m]Mesa de unión [RE]fraterna\n\n[LA]Hoy te recibimos, [MI]Señor\n[RE]Quédate con [LA]nosotros"
-  },
-  {
-    "id": 4,
-    "titulo": "Canto de ejemplo para la salida",
-    "categoria": "Salida",
+    "titulo": "REUNIDOS EN EL NOMBRE DEL SEÑOR",
+    "categoria": "Entrada",
     "tonoOriginal": "SOL",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[SOL]Vamos en paz, [RE]vamos a servir\n[MIm]Llevando tu [DO]luz\n\n[SOL]Gracias, Señor, [RE]por este día\n[DO]Hasta la [SOL]próxima"
+    "letraConAcordes": "[SOL]Reunidos en el [DO]nombre del Se[SOL]ñor\nque nos ha congre[DO]gado [LA7]ante su al[RE]tar\n[LAm]// cele[RE7]bremos el mis[SOL]terio de la [MIm]fe\nbajo el [RE7]signo del a[SOL]mor y la u[LAm]nidad. //\n\n[SOL]Tú, Se[RE]ñor, da sen[SOL]tido a nuestra vida\n[MIm]tu pre[LA7]sencia nos a[RE]yuda a caminar\n[SOL]tu Pa[SI7]labra es [MIm]fuente de agua viva\nque no[DO]sotros, se[LAm]dientos\na tu [RE7]mesa ve[DO]nimos [RE7]a bus[SOL]car\n\n[SOL]Puri[DO]fica con tu [SOL]gracia nuestras [RE]manos\n[MIm]ilumina nuestra [LA7]mente con tu luz\n[SOL]y la [MIm]fe se for[SI7]talezca en tu palabra\n[DO]y tu cuerpo, [LAm]tomado en ali[RE7]mento\nnos [DO]tra[RE7]iga la sa[SOL]lud"
+  },
+  {
+    "id": 3,
+    "titulo": "EL REGALO (MSP)",
+    "categoria": "Ofertorio",
+    "tonoOriginal": "MIm",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[MIm]Te ofrecemos, Se[SOL]ñor, este vino y este [RE]pan,\nel regalo que [DO]das a la humani[RE]dad,\npara [MIm]bien de nosotros hoy se converti[SOL]rán\nen tu Cuerpo y tu [RE]Sangre, fuente de eter[DO]nidad. RE\n\n[MIm]Bendito seas, Se[SOL]ñor, Dios del universo,\n[RE]por este pan, fruto de la [DO]tierra\ny del trabajo de los hombres. (2)\n\n[MIm]Bendito seas, Se[SOL]ñor, Dios del universo,\n[RE]por este vino, fruto de la [DO]vid\ny del trabajo de los hombres. (2)"
+  },
+  {
+    "id": 4,
+    "titulo": "RECIBE SEÑOR",
+    "categoria": "Ofertorio",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Señor te ofre[LA]cemos nuestros [SOL]dones\n[SOL]Queremos con[MIm]sagrarlos para [LA]ti\n[SOL]Señor trans[LA]forma nuestra ofre[RE]nda\nEn re[SOL]medio de [LA]eterni[RE]dad [FA#m][SIm]\n\n[SOL]Recibe Se[LA]ñor estas of[RE]rendas [SI7]\n[SOL]Y sálva[MIm]nos oh Padre con la [LA]fuerza de tu amor\n[SOL]Toma este [LA]pan y este [RE]vino [FA#m]oh Se[SIm]ñor\n[SOL]Acépta[LA]los desde tu cora[RE]zón\n\n[RE]Atiende los de[LA]seos de tu [SOL]pueblo [LA]\n[MIm]Y al escuchar nuestras ple[SOL]garias\n[SOL]Vuelve hacia [LA]ti nuestro cora[RE]zón [FA#m][SIm]\n[SOL]Que como in[LA]cienso suba esta ora[RE]ción. [LAm][RE7]\n\nRecibe Señor estas ofrendas (2)"
+  },
+  {
+    "id": 5,
+    "titulo": "TOMAD, SEÑOR Y RECIBID",
+    "categoria": "Ofertorio",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Tomad, Se[LA7]ñor y reci[SIm]bid\n[SOL]la ofrenda que traigo\n[LA7]pan y vino al altar (bendito seas)\n[LA7]Que pronto se converti[SIm]rán\n[SOL]en tu Cuerpo y tu Sangre\n[LA7]don de tu santidad (bendito seas)\n\n[SOL]Traigo junto al [LA7]pan y a este [SIm]vino\n[SOL]la alegría que [LA7]tengo de servirte Señor,\n[SOL]te pido que me [LA7]aceptes con [SOL]ellos, [SIm]\n[LA7]gracias por invitarme a esta fiesta de amor.\n\n[RE]Tomad, Señor y recibid...\n\n[SOL]Traigo junto al [LA7]pan y a este [SIm]vino\n[SOL]el dolor de las [LA7]almas que no saben de ti.\n[SOL]también las inten[LA7]ciones de [SIm]tantos\n[SOL]para que los ben[LA7]digas, les des de tu paz.\n\n[LA7]Tomad, Se[SIm]ñor y recibid..."
+  },
+  {
+    "id": 6,
+    "titulo": "ERES JESÚS",
+    "categoria": "Comunión",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]Oye amigo [SIm]mío, hoy vengo hasta ti\n[MIm]para compartir, mi [SIm]gran soledad\n[SOL]quiero [FA#m]que me [MIm]veas como un [DO]viejo a[RE]migo\nen el [DO]cual se[LAm]guro tu pue[RE]des confiar\n\n[SOL]Quiero que me [SIm]cuentes, esa linda historia\n[MIm]donde el ser humano, tiene [SIm]un buen final\nesa his[DO]toria em[RE]pieza en el [SOL]año [FA#m]ce[MIm]ro\ny aun[DO]que pase el tiempo, siempre [RE]será igual [SOL][SOL7]\n\n[DO]Has ve[RE]nido a dar [SOL]vida [SOL7]\n[DO]has ve[RE]nido a dar [SOL]luz [SOL7]\n[DO]y hoy puedo [RE]llenar mi [SOL]alma [FA#m]de ale[MIm]gría\npor[DO]que eres Je[RE]sús (2)\n\nTe acercaste a mí, fueron muchas veces\npara charlar conmigo, pero no escuché\ny aunque entre nosotros no puedo mentir\nyo te di la espalda, me rehusé a hablar\n\nPero no quisiera, seguir mi camino\nviendo que este mundo me está haciendo mal\ny a cada momento, se hace más pesado\nquiero que me ayudes, ya no dudaré\n\nHas venido a dar vida..."
+  },
+  {
+    "id": 7,
+    "titulo": "GRANDE ERES SEÑOR",
+    "categoria": "Alabanza",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]Quiero ala[RE]barte Señor\n[MIm]quiero exal[DO]tarte oh Dios\n[MIm]darte la [DO]gloria y honor\n[MIm]la ala[DO]banza y adora[SOL]ción... [RE]\n[DO]No hay nadie comparable\nA ti Se[SOL]ñor [RE]\n\n[SOL]Grande [RE]eres Señor\n[MIm]grande [DO]eres tú\n[SOL]No hay nadie compa[RE]rable\n[DO]a ti Se[SOL]ñor [MIm]// (2)\n\n[SOL]No hay nadie Señor\n[RE]no hay nadie Señor\n[MIm]no hay nadie Señor\n[DO]como tú (2)\n\n[RE]Grande eres Señor\n[DO]grande eres tú\n[SOL]No hay nadie compa[RE]rable\n[DO]a ti Se[SOL]ñor\n\n[SOL]No hay nadie Señor\n[RE]no hay nadie Señor\n[MIm]no hay nadie Señor\n[DO]como tú (4)\n\n[SOL]No hay nadie compa[RE]rable\n[DO]A ti Se[SOL]ñor (3)"
+  },
+  {
+    "id": 8,
+    "titulo": "HAY MOMENTOS",
+    "categoria": "Meditación",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Hay mo[SIm]mentos\nque las [MIm]palabras, no alcanzan,\npara decirte lo que [RE]siento\nbendito salva[LA7]dor\n\n[RE]Hay mo[SIm]mentos\nque las [MIm]palabras, no alcanzan,\npara decirte lo que [RE]siento\nbendito salva[RE7]dor\n\n[SOL]Señor [LA7]Yo te agra[FA#m]dezco\npor [SIm]todo lo que has hecho mi [LA7]Dios\npor [MIm]todo lo que haces\npor [RE]todo lo que ha[RE7]rás\n\n[SOL]Yo te agra[LA7]dezco Señor\n[FA#m]por todo lo que has [SIm]hecho mi Dios\n[MIm]por todo lo que [LA7]haces\npor todo lo que ha[RE]rás"
+  },
+  {
+    "id": 9,
+    "titulo": "TE ENTREGO",
+    "categoria": "Meditación",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Haz lo que [SOL]quieras con[RE]migo\n[SOL]haz lo que quieras de [LA7]mí\n[RE]hoy yo te ofrezco mi vida\n[SOL]hoy yo me [LA7]rindo ante ti. (2)\n\n[RE]Te entrego [LA7]todo lo que soy\n[SIm]todo lo que tengo\n[FA#m]todo lo que quiero\n[SOL]y todo lo que sueño\n[LA7]a ti señor Jesús. (2)\n\n[RE]Te entrego, [LA7]te en[RE]trego."
+  },
+  {
+    "id": 10,
+    "titulo": "TE ENTREGO (Tono LA)",
+    "categoria": "Meditación",
+    "tonoOriginal": "LA",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[LA]Haz lo que [RE]quieras con[LA]migo\n[RE]haz lo que quieras de [MI]mí\n[LA]hoy yo te ofrezco mi vida\n[RE]hoy yo me [SI7]rindo ante ti. (2)\n\n[MI]Te entrego [SI7]todo lo que soy\n[DO#m]todo lo que tengo\n[SOL#m]todo lo que quiero\n[LA]y todo lo que sueño\n[SI7]a ti señor Jesús. (2)\n\n[MI]Te entrego, [SI7]te en[MI]trego."
+  },
+  {
+    "id": 11,
+    "titulo": "EL SEÑOR ES MI PASTOR",
+    "categoria": "Salmo",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]El Señor [RE]es mi pastor\n[MIm]nada me falta\n[DO]El Se[LAm7]ñor es mi pas[RE]tor\n[SOL]El Señor [RE]es mi pastor\n[MIm]nada me falta\n[DO]El Se[RE]ñor es mi pas[SOL]tor [RE]\n\n[SOL]En praderas reposa mi alma\n[SIm]en su agua descansa mi sed\n[DO]él me guía por senderos justos\n[RE]por amor por amor de su nombre\n\n[SOL]Aunque pase por valles oscuros\n[SIm]ningún mal ningún mal temeré\n[DO]porque [LAm7]sé que el Señor va conmigo\n[RE]su cayado sostiene mi fe\n\n[SOL]Tú preparas por mí una mesa\n[SIm]frente a aquellos que buscan mi mal\n[DO]con aceite me ungiste Señor\n[RE]y mi copa rebosa por ti\n\n[SOL]Gloria a Dios Padre omnipotente\n[SIm]y a su hijo Jesús el Señor\n[DO]y al Es[LAm7]píritu que habita en el mundo\n[RE]por los siglos eternos amén"
+  },
+  {
+    "id": 12,
+    "titulo": "ARRIBA NUESTROS RAMOS",
+    "categoria": "Domingo de Ramos",
+    "tonoOriginal": "LAm",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[LAm]¡A-RRIBA NUESTROS [FA]RAMOS, CAN[DO]TANDO AL SEÑOR,\n[MI7]A-RRIBA NUESTROS [LAm]RAMOS, CAN-TANDO AL SEÑOR!\n[LAm]¡BENDITO EL QUE VIENE EN NOMBRE DEL SEÑOR!\n[FA]¡JE[LAm]SÚS, NUESTRA ES[MI7]PERANZA, JE[LAm]SÚS LIBERADOR!\n\n[LAm]Era un do[FA]mingo, allá en Je[LAm]rusalén,\n[REm]cuando en un [LAm]burrito Je[MI7]sús entra a pade[LAm]cer.\n[LAm]Todo el pueblo [FA]humilde lo sa[LAm]lió a recibir,\n[REm]y con entu[LAm]siasmo comen[MI7]zaron a de[LAm]cir:\n\nPero el mejor canto que Jesús quiso escuchar\nFue el canto puro de los niños del lugar\nEllos saludaban a Jesús Liberador\nCristo, el esperado de los pobres del Señor\n\nHoy también nosotros te queremos recibir\nY por tu camino serte fieles hasta el fin\nCristo, nos conduces hacia el Reino de la luz\nMarcas nuestra huella con la sangre de tu cruz"
+  },
+  {
+    "id": 13,
+    "titulo": "MIS PECADOS SON TU CRUZ",
+    "categoria": "Cuaresma / Penitencial",
+    "tonoOriginal": "MI",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "TE MIRO, CON GESTO DE DOLOR\nCREO QUE ME PUEDO VER EN TU ROSTRO SEÑOR\nCRISTO ESTOY AQUÍ DÁNDOME CUENTA DE\nLO MUCHO QUE FALLÉ Y QUE MIS PECADOS SON\nLOS QUE TE IMPONEN ESA CRUZ\nY TUS MANOS CLAVE CUANDO TE NEGUE\nSÉ QUE MI ODIO ES TU DOLOR\nMÁS AÚN ASÍ ME DAS EL PERDÓN\nTU CORAZÓN TIENE UN LUGAR\nQUE HAS HECHO PARA MÍ Y ME LO QUIERES DAR\nY ME HACE PENSAR QUE SI MEREZCO YO\nRECIBIR SEÑOR LA SALVACIÓN ASÍ"
+  },
+  {
+    "id": 14,
+    "titulo": "TÚ REINARÁS",
+    "categoria": "Cristo Rey",
+    "tonoOriginal": "MI",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[MI]Tú reinarás este es el grito\n[LA]Que ardiente ex[SI7]hala nuestra fe.\n[MI]Tú reinarás oh Rey Bendito\n[LA]Pues tú di[SI7]jiste reinaré\n\n[MI]REINE JE[SI7]SÚS POR SIEMPRE,\n[FA#]REINE SU [SI7]CORA[MI]ZÓN\nEN [LA]NUESTRA PATRIA EN [MI]NUESTRO SUELO\n[LA]ES DE MA[SI7]RÍA LA NA[MI]CIÓN (bis)\n\nTu reinarás dulce esperanza\nQue al alma llena de placer\nHabrá por fin paz y bonanza\nFelicidad habrá doquier.\n\nTu reinarás dichosa era\nDichoso pueblo con tal rey\nSerá tu cruz nuestra bandera\nTu amor será nuestra ley\n\nTu reinarás en este suelo\nTe prometemos nuestro amor\nOh buen Jesús, danos consuelo\nEn este valle de dolor"
+  },
+  {
+    "id": 15,
+    "titulo": "VI AGUA",
+    "categoria": "Bautismo / Aspersión",
+    "tonoOriginal": "MI",
+    "linkYouTube": "https://youtu.be/q0ACrctVWQ0",
+    "archivoAudio": "",
+    "letraConAcordes": "[MI]Rocíanos, Se[SI7]ñor, con tu [LA]bendi[MI]ción,\n[FA#m]rocíanos [DO#m]con tu [LA]amor. [SI7]Ale[MI]luya. (2)\n\n[DO#m]Vi agua bro[SOL#m]tar del lado de[LA]recho del [SI7]Temp[MI]lo,\n[SOL#m]renueva, [LA]Dios de [FA#7]amor, nuestro bau[SI7]tismo.\n\nVi que tus elegidos recibían el agua,\nsantifica, Dios de amor, nuestra vida.\n\nVi surgir vida nueva en todo tu pueblo,\nsalva, Dios de amor, a todos tus hijos.\n\nVi cantar con gozo a todos los renacidos,\npurifica, Dios de amor, a tu Santa Iglesia\n\n[DO#m]Gloria al Padre, y al Hijo, y al Espíritu Santo,\na Tí la alabanza por siempre, Señor."
+  },
+  {
+    "id": 16,
+    "titulo": "HEMOS VISTO AL SEÑOR",
+    "categoria": "Pascua",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]La paz es[RE]té con us[MIm]tedes\n[DO]Como el Padre [LAm]me ha enviado a[RE]sí los envío yo.\n[SOL]Reci[RE]ban al Es[MIm]píritu Santo\n[DO]A ustedes en[LAm]trego el re[RE]galo, de perdonar\n\n[SOL]HEMOS [RE]VISTO AL SE[MIm]ÑOR, HEMOS VISTO AL SEÑOR\n[DO]ENTRE NO[LAm]SOTROS HA ES[RE]TADO Y LA PAZ NOS DESEÓ\n[SOL]HEMOS [RE]VISTO AL SE[MIm]ÑOR, HEMOS VISTO AL SEÑOR\n[DO]COMO EL [LAm]PADRE LO HA EN[RE]VIADO ÉL TAMBIÉN NOS ENVIÓ\n\n[SOL]Tomás no es[RE]taba con [MIm]ellos\n[DO]Cuando vi[LAm]no Je[RE]sús y a su lado se presentó\n[SOL]Si no veo la se[RE]ñal de los [MIm]clavos\n[DO]Y no me[LAm]to mi ma[RE]no en la herida, no creeré.\n\n[SOL]Reunidos a [RE]porta cer[MIm]rada\n[DO]Los dis[LAm]cípulos [RE]se encontraban, días después.\n[SOL]Tomás es[RE]taba con [MIm]ellos\n[DO]Cuando de [LAm]pronto Je[RE]sús, se les presentó\n\n[DO]Aquí es[RE]tá mis [SIm]manos [MIm]\n[DO]Acerca tu [LAm]dedo y tu [RE]mano, y no dudes más\n[DO]Señor [RE]y Dios [SIm]mío [MIm]\n[DO]Porque has vis[LAm]to tú crees, fe[RE]liz el que cree sin ver"
+  },
+  {
+    "id": 17,
+    "titulo": "LOS PASTORES A BELEN",
+    "categoria": "Navidad",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "Los pastores a belen corren presurosos,\nllevan de tanto correr los zapatos rotos.\n\nAy ay ay, que alegres van,\nay ay ay si volveran.\nCon la pan pan pan con la de de de\ncon la pan con la de con la pandereta\ny las castañuelas.\n\nUn pastor se tropezó a media vereda\ny un borreguito grito este aqui se queda.\nya se van para belén A adorar al niño\nLas pastoras en el tren Y los pastorcillos.\n\nlos pastores a belén Casi, casi vuelan;\nY es que de tanto correr No les quedan suelas.\nUn mosquito le pico A un pastor muy flaco,\nY enojado le grito: de ti nada saco.\n\nAl llegar ante el portal Al niño adoraron;\nCon salero sin igual La jota bailaron.\nCorderito, leche y miel Al niño ofrecieron\nUn morralito también Con bollitos tiernos.\n\nSan José agradeció Todos los regalos,\nLa virgen les obsequio Con buñuelos largos.\nEl niño les sonrió, Lindo, muy contento\nLo besaron con fervor, Y se fueron yendo.\n\nEn un charco se cayo El buen tío Gabelo\nY de un tope lo saco Un borrego negro.\nDe un panal la miel robo, Un zagal muy bobo,\nEl enjambre le pico, Y quedo hecho un globo.\n\nBen Ali Baruch canto Y canto muy feo\nQue un chivote así berreo, ay, ay, ay me muero\nLos pastores vuelven ya De esperanzas llenos\nY de tanto caminar Ya no traen ni cueros.\n\nA sus nietos contaran El divino encuentro\nYa muy viejitos morirán, En paz y contentos.\n\nAy, ay, ay, que alegres van, ya por siempre cantaran\nCon la pan, pan, pan con la de, de, de\ncon la pan con la de con la pandereta y las castañuelas."
   }
 ]
