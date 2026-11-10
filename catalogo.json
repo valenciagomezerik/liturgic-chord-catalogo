@@ -1,105 +1,186 @@
 [
   {
     "id": 1,
-    "titulo": "QUE ALEGRÍA CUANDO ME DIJERON",
-    "categoria": "Entrada",
-    "tonoOriginal": "MIm",
+    "titulo": "A EDIFICAR LA IGLESIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[MIm]Qué ale[LAm]gría [MIm]cuando me di[SI7]jeron\n[MIm]vamos [SI7]a la casa del Se[MIm]ñor\n[MIm]permaneciendo en [LAm]Jerusalén\n[SI7]en las puertas de la casa de [MIm]Dios (2)\n\n[MIm]Mira oh Je[SI7]rusalén\nOra por paz Jerusalén\n[LAm]y prosperidad a tu [MIm]casa\n[SI7]paz dentro de tus murallas\n[LAm]que solo de Dios [MIm]viene\n[LAm]la ciudad restau[MIm]rada\n[SI7]aquí las tribus de Yavé\n[LAm]son una en el Se[MIm]ñor\n\n[MIm]Como lo ordenó a Is[SI7]rael\n[LAm]vienen a alabar su [MIm]nombre\n[SI7]aquí donde la justicia\n[LAm]la justicia de David [MIm]reina"
+    "letraConAcordes": "RE\tLA\n[A] edificar la iglesia a edificar la iglesia"
   },
   {
     "id": 2,
-    "titulo": "REUNIDOS EN EL NOMBRE DEL SEÑOR",
-    "categoria": "Entrada",
-    "tonoOriginal": "SOL",
+    "titulo": "A QUE TU NO SABES",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[SOL]Reunidos en el [DO]nombre del Se[SOL]ñor\nque nos ha congre[DO]gado [LA7]ante su al[RE]tar\n[LAm]// cele[RE7]bremos el mis[SOL]terio de la [MIm]fe\nbajo el [RE7]signo del a[SOL]mor y la u[LAm]nidad. //\n\n[SOL]Tú, Se[RE]ñor, da sen[SOL]tido a nuestra vida\n[MIm]tu pre[LA7]sencia nos a[RE]yuda a caminar\n[SOL]tu Pa[SI7]labra es [MIm]fuente de agua viva\nque no[DO]sotros, se[LAm]dientos\na tu [RE7]mesa ve[DO]nimos [RE7]a bus[SOL]car\n\n[SOL]Puri[DO]fica con tu [SOL]gracia nuestras [RE]manos\n[MIm]ilumina nuestra [LA7]mente con tu luz\n[SOL]y la [MIm]fe se for[SI7]talezca en tu palabra\n[DO]y tu cuerpo, [LAm]tomado en ali[RE7]mento\nnos [DO]tra[RE7]iga la sa[SOL]lud"
+    "letraConAcordes": "MI\tSI7\n[A] que tú no sabes"
   },
   {
     "id": 3,
-    "titulo": "EL REGALO (MSP)",
-    "categoria": "Ofertorio",
-    "tonoOriginal": "MIm",
+    "titulo": "A TI LEVANTO MIS OJOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[MIm]Te ofrecemos, Se[SOL]ñor, este vino y este [RE]pan,\nel regalo que [DO]das a la humani[RE]dad,\npara [MIm]bien de nosotros hoy se converti[SOL]rán\nen tu Cuerpo y tu [RE]Sangre, fuente de eter[DO]nidad. RE\n\n[MIm]Bendito seas, Se[SOL]ñor, Dios del universo,\n[RE]por este pan, fruto de la [DO]tierra\ny del trabajo de los hombres. (2)\n\n[MIm]Bendito seas, Se[SOL]ñor, Dios del universo,\n[RE]por este vino, fruto de la [DO]vid\ny del trabajo de los hombres. (2)"
+    "letraConAcordes": "LAm\tMIm\n[A] TI LEVANTO MIS OJOS"
   },
   {
     "id": 4,
-    "titulo": "RECIBE SEÑOR",
-    "categoria": "Ofertorio",
-    "tonoOriginal": "RE",
+    "titulo": "A VIVIR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[RE]Señor te ofre[LA]cemos nuestros [SOL]dones\n[SOL]Queremos con[MIm]sagrarlos para [LA]ti\n[SOL]Señor trans[LA]forma nuestra ofre[RE]nda\nEn re[SOL]medio de [LA]eterni[RE]dad [FA#m][SIm]\n\n[SOL]Recibe Se[LA]ñor estas of[RE]rendas [SI7]\n[SOL]Y sálva[MIm]nos oh Padre con la [LA]fuerza de tu amor\n[SOL]Toma este [LA]pan y este [RE]vino [FA#m]oh Se[SIm]ñor\n[SOL]Acépta[LA]los desde tu cora[RE]zón\n\n[RE]Atiende los de[LA]seos de tu [SOL]pueblo [LA]\n[MIm]Y al escuchar nuestras ple[SOL]garias\n[SOL]Vuelve hacia [LA]ti nuestro cora[RE]zón [FA#m][SIm]\n[SOL]Que como in[LA]cienso suba esta ora[RE]ción. [LAm][RE7]\n\nRecibe Señor estas ofrendas (2)"
+    "letraConAcordes": "DO\tSOL\nAmar por amar no vale la pena"
   },
   {
     "id": 5,
-    "titulo": "TOMAD, SEÑOR Y RECIBID",
-    "categoria": "Ofertorio",
-    "tonoOriginal": "RE",
+    "titulo": "AGUA DE VIDA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[RE]Tomad, Se[LA7]ñor y reci[SIm]bid\n[SOL]la ofrenda que traigo\n[LA7]pan y vino al altar (bendito seas)\n[LA7]Que pronto se converti[SIm]rán\n[SOL]en tu Cuerpo y tu Sangre\n[LA7]don de tu santidad (bendito seas)\n\n[SOL]Traigo junto al [LA7]pan y a este [SIm]vino\n[SOL]la alegría que [LA7]tengo de servirte Señor,\n[SOL]te pido que me [LA7]aceptes con [SOL]ellos, [SIm]\n[LA7]gracias por invitarme a esta fiesta de amor.\n\n[RE]Tomad, Señor y recibid...\n\n[SOL]Traigo junto al [LA7]pan y a este [SIm]vino\n[SOL]el dolor de las [LA7]almas que no saben de ti.\n[SOL]también las inten[LA7]ciones de [SIm]tantos\n[SOL]para que los ben[LA7]digas, les des de tu paz.\n\n[LA7]Tomad, Se[SIm]ñor y recibid..."
+    "letraConAcordes": "LA\tMI\tFA#m\nVengan a mí los sedientos\nDO#m\tRE\tSIm\tMI\ny los que sufren dice el Señor"
   },
   {
     "id": 6,
-    "titulo": "ERES JESÚS",
-    "categoria": "Comunión",
-    "tonoOriginal": "SOL",
+    "titulo": "ALABADO SEAS MI SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[SOL]Oye amigo [SIm]mío, hoy vengo hasta ti\n[MIm]para compartir, mi [SIm]gran soledad\n[SOL]quiero [FA#m]que me [MIm]veas como un [DO]viejo a[RE]migo\nen el [DO]cual se[LAm]guro tu pue[RE]des confiar\n\n[SOL]Quiero que me [SIm]cuentes, esa linda historia\n[MIm]donde el ser humano, tiene [SIm]un buen final\nesa his[DO]toria em[RE]pieza en el [SOL]año [FA#m]ce[MIm]ro\ny aun[DO]que pase el tiempo, siempre [RE]será igual [SOL][SOL7]\n\n[DO]Has ve[RE]nido a dar [SOL]vida [SOL7]\n[DO]has ve[RE]nido a dar [SOL]luz [SOL7]\n[DO]y hoy puedo [RE]llenar mi [SOL]alma [FA#m]de ale[MIm]gría\npor[DO]que eres Je[RE]sús (2)\n\nTe acercaste a mí, fueron muchas veces\npara charlar conmigo, pero no escuché\ny aunque entre nosotros no puedo mentir\nyo te di la espalda, me rehusé a hablar\n\nPero no quisiera, seguir mi camino\nviendo que este mundo me está haciendo mal\ny a cada momento, se hace más pesado\nquiero que me ayudes, ya no dudaré\n\nHas venido a dar vida..."
+    "letraConAcordes": "RE\tSOL\tRE\nAlabado seas mi Señor\nLA7\nalabado seas mi Señor"
   },
   {
     "id": 7,
-    "titulo": "GRANDE ERES SEÑOR",
-    "categoria": "Alabanza",
-    "tonoOriginal": "SOL",
+    "titulo": "ALEGRIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[SOL]Quiero ala[RE]barte Señor\n[MIm]quiero exal[DO]tarte oh Dios\n[MIm]darte la [DO]gloria y honor\n[MIm]la ala[DO]banza y adora[SOL]ción... [RE]\n[DO]No hay nadie comparable\nA ti Se[SOL]ñor [RE]\n\n[SOL]Grande [RE]eres Señor\n[MIm]grande [DO]eres tú\n[SOL]No hay nadie compa[RE]rable\n[DO]a ti Se[SOL]ñor [MIm]// (2)\n\n[SOL]No hay nadie Señor\n[RE]no hay nadie Señor\n[MIm]no hay nadie Señor\n[DO]como tú (2)\n\n[RE]Grande eres Señor\n[DO]grande eres tú\n[SOL]No hay nadie compa[RE]rable\n[DO]a ti Se[SOL]ñor\n\n[SOL]No hay nadie Señor\n[RE]no hay nadie Señor\n[MIm]no hay nadie Señor\n[DO]como tú (4)\n\n[SOL]No hay nadie compa[RE]rable\n[DO]A ti Se[SOL]ñor (3)"
+    "letraConAcordes": "DO\tSOL\nAlegría, alegría, alegría"
   },
   {
     "id": 8,
-    "titulo": "HAY MOMENTOS",
-    "categoria": "Meditación",
-    "tonoOriginal": "RE",
+    "titulo": "ALELUYA, GLORIA ALELUYA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[RE]Hay mo[SIm]mentos\nque las [MIm]palabras, no alcanzan,\npara decirte lo que [RE]siento\nbendito salva[LA7]dor\n\n[RE]Hay mo[SIm]mentos\nque las [MIm]palabras, no alcanzan,\npara decirte lo que [RE]siento\nbendito salva[RE7]dor\n\n[SOL]Señor [LA7]Yo te agra[FA#m]dezco\npor [SIm]todo lo que has hecho mi [LA7]Dios\npor [MIm]todo lo que haces\npor [RE]todo lo que ha[RE7]rás\n\n[SOL]Yo te agra[LA7]dezco Señor\n[FA#m]por todo lo que has [SIm]hecho mi Dios\n[MIm]por todo lo que [LA7]haces\npor todo lo que ha[RE]rás"
+    "letraConAcordes": "RE\tRE-SIm\nAleluya gloria aleluya\nSIm-SOL\nAleluya gloria aleluya\nSOL-LA\nAleluya gloria aleluya\nLA-RE\nAleluya gloria aleluya"
   },
   {
     "id": 9,
-    "titulo": "TE ENTREGO",
-    "categoria": "Meditación",
-    "tonoOriginal": "RE",
+    "titulo": "ALELUYA-A-AL SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[RE]Haz lo que [SOL]quieras con[RE]migo\n[SOL]haz lo que quieras de [LA7]mí\n[RE]hoy yo te ofrezco mi vida\n[SOL]hoy yo me [LA7]rindo ante ti. (2)\n\n[RE]Te entrego [LA7]todo lo que soy\n[SIm]todo lo que tengo\n[FA#m]todo lo que quiero\n[SOL]y todo lo que sueño\n[LA7]a ti señor Jesús. (2)\n\n[RE]Te entrego, [LA7]te en[RE]trego."
+    "letraConAcordes": "RE\tSIm\tSOL\tLA7\tRE\n[A]-le-luya, aleluya-a-al Señor (2)"
   },
   {
     "id": 10,
-    "titulo": "TE ENTREGO (Tono LA)",
-    "categoria": "Meditación",
-    "tonoOriginal": "LA",
+    "titulo": "ALGO VA DESCENDIENDO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[LA]Haz lo que [RE]quieras con[LA]migo\n[RE]haz lo que quieras de [MI]mí\n[LA]hoy yo te ofrezco mi vida\n[RE]hoy yo me [SI7]rindo ante ti. (2)\n\n[MI]Te entrego [SI7]todo lo que soy\n[DO#m]todo lo que tengo\n[SOL#m]todo lo que quiero\n[LA]y todo lo que sueño\n[SI7]a ti señor Jesús. (2)\n\n[MI]Te entrego, [SI7]te en[MI]trego."
+    "letraConAcordes": "MI\tSI7\nAlgo va descendiendo"
   },
   {
     "id": 11,
-    "titulo": "EL SEÑOR ES MI PASTOR",
-    "categoria": "Salmo",
-    "tonoOriginal": "SOL",
+    "titulo": "ALMA MISIONERA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[SOL]El Señor [RE]es mi pastor\n[MIm]nada me falta\n[DO]El Se[LAm7]ñor es mi pas[RE]tor\n[SOL]El Señor [RE]es mi pastor\n[MIm]nada me falta\n[DO]El Se[RE]ñor es mi pas[SOL]tor [RE]\n\n[SOL]En praderas reposa mi alma\n[SIm]en su agua descansa mi sed\n[DO]él me guía por senderos justos\n[RE]por amor por amor de su nombre\n\n[SOL]Aunque pase por valles oscuros\n[SIm]ningún mal ningún mal temeré\n[DO]porque [LAm7]sé que el Señor va conmigo\n[RE]su cayado sostiene mi fe\n\n[SOL]Tú preparas por mí una mesa\n[SIm]frente a aquellos que buscan mi mal\n[DO]con aceite me ungiste Señor\n[RE]y mi copa rebosa por ti\n\n[SOL]Gloria a Dios Padre omnipotente\n[SIm]y a su hijo Jesús el Señor\n[DO]y al Es[LAm7]píritu que habita en el mundo\n[RE]por los siglos eternos amén"
+    "letraConAcordes": "SOL\tDO\nSeñor toma mi vida nueva"
   },
   {
     "id": 12,
+    "titulo": "ALTISIMO SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tSI7\nAltísimo Señor, que supiste juntar\nMI\na un tiempo en el altar, ser cordero y pastor"
+  },
+  {
+    "id": 13,
+    "titulo": "AMAR ES ENTREGARSE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nAmar es entregarse olvidándose de si"
+  },
+  {
+    "id": 14,
+    "titulo": "AMARTE SOLO A TI",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nAmarte solo a ti Señor"
+  },
+  {
+    "id": 15,
+    "titulo": "AMEMONOS DE CORAZON",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA7\nAmémonos de corazón\nREm\nno de labios ni de oídos (2)"
+  },
+  {
+    "id": 16,
+    "titulo": "AMEN",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nAmen, amen, amen, amen, amen"
+  },
+  {
+    "id": 17,
+    "titulo": "ANDANDO DE TU MANO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nDesde que voy junto a ti"
+  },
+  {
+    "id": 18,
+    "titulo": "AQUÍ ESTAN MIS MANOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSOL\tMIm\tRE\tMIm\nAquí están mis manos oh Señor (2)\nMIm\tSOL\tMIm\nPara transformar el fruto de la tierra\nRE\tMIm\nEn pan de vida"
+  },
+  {
+    "id": 19,
+    "titulo": "AQUÍ ESTOY SEÑOR TE OIRE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tSIm DO\nAquí estoy señor te oiré\nDOm\tRE\ncumpliré Jesús tu voluntad"
+  },
+  {
+    "id": 20,
+    "titulo": "AQUÍ HAY UN MUCHACHO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nAquí hay un muchacho\nLAm\tMIm\tFA\tDO\nque solamente tiene cinco panes y dos peces"
+  },
+  {
+    "id": 21,
     "titulo": "ARRIBA NUESTROS RAMOS",
     "categoria": "Domingo de Ramos",
     "tonoOriginal": "LAm",
@@ -108,34 +189,727 @@
     "letraConAcordes": "[LAm]¡A-RRIBA NUESTROS [FA]RAMOS, CAN[DO]TANDO AL SEÑOR,\n[MI7]A-RRIBA NUESTROS [LAm]RAMOS, CAN-TANDO AL SEÑOR!\n[LAm]¡BENDITO EL QUE VIENE EN NOMBRE DEL SEÑOR!\n[FA]¡JE[LAm]SÚS, NUESTRA ES[MI7]PERANZA, JE[LAm]SÚS LIBERADOR!\n\n[LAm]Era un do[FA]mingo, allá en Je[LAm]rusalén,\n[REm]cuando en un [LAm]burrito Je[MI7]sús entra a pade[LAm]cer.\n[LAm]Todo el pueblo [FA]humilde lo sa[LAm]lió a recibir,\n[REm]y con entu[LAm]siasmo comen[MI7]zaron a de[LAm]cir:\n\nPero el mejor canto que Jesús quiso escuchar\nFue el canto puro de los niños del lugar\nEllos saludaban a Jesús Liberador\nCristo, el esperado de los pobres del Señor\n\nHoy también nosotros te queremos recibir\nY por tu camino serte fieles hasta el fin\nCristo, nos conduces hacia el Reino de la luz\nMarcas nuestra huella con la sangre de tu cruz"
   },
   {
-    "id": 13,
-    "titulo": "MIS PECADOS SON TU CRUZ",
-    "categoria": "Cuaresma / Penitencial",
-    "tonoOriginal": "MI",
+    "id": 22,
+    "titulo": "AUNQUE MARCHE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "TE MIRO, CON GESTO DE DOLOR\nCREO QUE ME PUEDO VER EN TU ROSTRO SEÑOR\nCRISTO ESTOY AQUÍ DÁNDOME CUENTA DE\nLO MUCHO QUE FALLÉ Y QUE MIS PECADOS SON\nLOS QUE TE IMPONEN ESA CRUZ\nY TUS MANOS CLAVE CUANDO TE NEGUE\nSÉ QUE MI ODIO ES TU DOLOR\nMÁS AÚN ASÍ ME DAS EL PERDÓN\nTU CORAZÓN TIENE UN LUGAR\nQUE HAS HECHO PARA MÍ Y ME LO QUIERES DAR\nY ME HACE PENSAR QUE SI MEREZCO YO\nRECIBIR SEÑOR LA SALVACIÓN ASÍ"
+    "letraConAcordes": "MIm\tRE\nAunque marche por la oscuridad"
   },
   {
-    "id": 14,
-    "titulo": "TÚ REINARÁS",
-    "categoria": "Cristo Rey",
-    "tonoOriginal": "MI",
+    "id": 23,
+    "titulo": "BAUTIZAME",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
     "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[MI]Tú reinarás este es el grito\n[LA]Que ardiente ex[SI7]hala nuestra fe.\n[MI]Tú reinarás oh Rey Bendito\n[LA]Pues tú di[SI7]jiste reinaré\n\n[MI]REINE JE[SI7]SÚS POR SIEMPRE,\n[FA#]REINE SU [SI7]CORA[MI]ZÓN\nEN [LA]NUESTRA PATRIA EN [MI]NUESTRO SUELO\n[LA]ES DE MA[SI7]RÍA LA NA[MI]CIÓN (bis)\n\nTu reinarás dulce esperanza\nQue al alma llena de placer\nHabrá por fin paz y bonanza\nFelicidad habrá doquier.\n\nTu reinarás dichosa era\nDichoso pueblo con tal rey\nSerá tu cruz nuestra bandera\nTu amor será nuestra ley\n\nTu reinarás en este suelo\nTe prometemos nuestro amor\nOh buen Jesús, danos consuelo\nEn este valle de dolor"
+    "letraConAcordes": "MIm\tSI7\nBautízame Señor con tu Espíritu"
   },
   {
-    "id": 15,
-    "titulo": "VI AGUA",
-    "categoria": "Bautismo / Aspersión",
-    "tonoOriginal": "MI",
-    "linkYouTube": "https://youtu.be/q0ACrctVWQ0",
+    "id": 24,
+    "titulo": "BENDITA EUCARISTIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
+    "linkYouTube": "",
     "archivoAudio": "",
-    "letraConAcordes": "[MI]Rocíanos, Se[SI7]ñor, con tu [LA]bendi[MI]ción,\n[FA#m]rocíanos [DO#m]con tu [LA]amor. [SI7]Ale[MI]luya. (2)\n\n[DO#m]Vi agua bro[SOL#m]tar del lado de[LA]recho del [SI7]Temp[MI]lo,\n[SOL#m]renueva, [LA]Dios de [FA#7]amor, nuestro bau[SI7]tismo.\n\nVi que tus elegidos recibían el agua,\nsantifica, Dios de amor, nuestra vida.\n\nVi surgir vida nueva en todo tu pueblo,\nsalva, Dios de amor, a todos tus hijos.\n\nVi cantar con gozo a todos los renacidos,\npurifica, Dios de amor, a tu Santa Iglesia\n\n[DO#m]Gloria al Padre, y al Hijo, y al Espíritu Santo,\na Tí la alabanza por siempre, Señor."
+    "letraConAcordes": "LA\tDO#m\n[A] ti el más inocente\nRE SIm\tMI\na ti el omnipotente"
   },
   {
-    "id": 16,
+    "id": 25,
+    "titulo": "BENDITO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tRE\nBendito, bendito, bendito sea Dios\nSOL\tRE\tLA7\tRE\nlos ángeles cantan y alaban a Dios (2)"
+  },
+  {
+    "id": 26,
+    "titulo": "BUENOS DIAS PALOMA BLANCA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\tSOL\nBuenos días paloma blanca"
+  },
+  {
+    "id": 27,
+    "titulo": "CAMINARE",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE\tDO\tSI7\tMIm\nCAMINARE EN PRESENCIA DEL SEÑOR (2)\nMIm\tRE\nAmo al señor porque escucha\nDO\tSI7\nmi voz suplicante\nMIm\tRE\tDO\nPorque inclina su oído hacia a mi\nSI7\tMIm\nel día en que lo invoco"
+  },
+  {
+    "id": 28,
+    "titulo": "CAMINO AL MONTE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\nCamino al monte"
+  },
+  {
+    "id": 29,
+    "titulo": "CAMPANA NAVIDEÑA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nCampana navideña de dulce y claro son"
+  },
+  {
+    "id": 30,
+    "titulo": "CAMPANA SOBRE CAMPANA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nCampana sobre campana"
+  },
+  {
+    "id": 31,
+    "titulo": "CANTAD AL SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI SI7 DO#m\tLA\tSI7\nCantad al Señor alelu-u-u-u-ya\nMI SI7 DO#m\tLA\tSI7\tMI SI7 MI\ncantad al Señor alelu-u-u-u-u-ya"
+  },
+  {
+    "id": 32,
+    "titulo": "CANTAD ALELUYA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nOs habéis acercado\nRE\tSOL FA#m MIm\na Sión el monte de Dios"
+  },
+  {
+    "id": 33,
+    "titulo": "CANTANDO VOY CANTANDO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nCantando, voy cantando cantando hacia belén"
+  },
+  {
+    "id": 34,
+    "titulo": "CANTEMOS AL AMOR DE LOS AMORES",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL7\tLAm\tDO DO7\nCantemos al Amor de los amores,\nFA\tMIm\ncantemos al Señor."
+  },
+  {
+    "id": 35,
+    "titulo": "CANTO AL ESPIRITU SANTO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm LA7 REm\tSOL7\nOh deja que el Señor te envuelva"
+  },
+  {
+    "id": 36,
+    "titulo": "CANTO NUEVO",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "A",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tLA-FA#m\nCANTO AL SEÑOR UN CANTO NUEVO,\nFA#m-RE\nCANTO AL SEÑOR UN CANTO NUEVO,\nRE-SI7\n[A] UNA VOZ,\nMI\nCANTEN UN HIMNO AL SEÑOR. (2)\nLA\tFA#m\nEn siete días creo dios al mundo\nLA\tFA#m\nAdán peco y perdió el cielo\nLA\tFA#m\nJesús vino para redimirnos\nRE\tMI\nmurió en la cruz y nos salvo\n[A] Moisés dios dijo: \"haz mi pueblo libre\", yo seré tu guía, siempre sígueme, salidos ya de Egipto y el mar pasaron, cantaron y bailaron, se llenaron de júbilo"
+  },
+  {
+    "id": 37,
+    "titulo": "CARA A CARA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\nSolamente una palabra, solamente una oración cuando llegue a tu presencia, oh Señor"
+  },
+  {
+    "id": 38,
+    "titulo": "CARIDAD Y COMPRENSION",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL RE\nCARIDAD Y COMPRENSIÓN, ALELUYA\nSIm\tMIm\tLA7 RE\nY VERDAD EN EL AMOR, ALELUYA."
+  },
+  {
+    "id": 39,
+    "titulo": "CON AMOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\nCon amor te presento Señor\nSOL\tLAm\nlo mejor de mi vida\nDO\nte presento señor mi amistad\nMI7\ncon amor te presento Señor\nLAm\npara ser mi manjar"
+  },
+  {
+    "id": 40,
+    "titulo": "CON EL VINO Y CON EL PAN",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SIm\tLA\tSIm\tLAm-RE7-SOL\nCon nuestras manos ya cansadas\nLA\tRE - RE7 - SOL\ny nuestros pies de tanto andar\nLA\tFA#m\tSIm\nvenimos hoy a presentar oh Señor\nSOL\tLA\npara que nos puedas perdonar"
+  },
+  {
+    "id": 41,
+    "titulo": "CON ESTAS OFRENDAS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nCon estas ofrendas yo te pido Señor\nSOL\tLA7\nque en este mundo haya amor\nRE\tFA#7\tSIm\nQue todas las cosas que creaste\nSOL\tLA\tRE\nvuelvan a tener en el mundo amor y paz. (2)"
+  },
+  {
+    "id": 42,
+    "titulo": "CORDERO DO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tMIm\nCordero de dios\nFA\tSOL\nque quitas el pecado"
+  },
+  {
+    "id": 43,
+    "titulo": "CORDERO LA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\nCordero de dios\nFA#m\tRE\nque quitas el pecado del mundo\nMI\nTen piedad – Ten piedad – Ten piedad"
+  },
+  {
+    "id": 44,
+    "titulo": "CORDERO MI (Cordero, Cordero)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tDO#m\nCordero, cordero de Dios\nLA\tSI7\tMI\nque quitas el pecado del mundo"
+  },
+  {
+    "id": 45,
+    "titulo": "CORDERO MI (RITMICO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tLA\nCordero de Dios\nSI7\tMI\nque quitas el pecado"
+  },
+  {
+    "id": 46,
+    "titulo": "CORDERO MIm",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tLA\nCordero de dios que quitas\nDO\tRE\tMIm\nel pecado del mundo"
+  },
+  {
+    "id": 47,
+    "titulo": "CORDERO MIm (BAJEO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE\nCordero de dios\nDO\tSI7\tMIm\nque quitas el pecado del mundo"
+  },
+  {
+    "id": 48,
+    "titulo": "CORDERO MIm (RITMICO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE MIm\tMIm\tRE MIm\nCordero de Dios (Cordero de Dios)\nSOL\tRE\tMIm\nque quitas el pecado del mundo"
+  },
+  {
+    "id": 49,
+    "titulo": "CORDERO RE (Popular)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nCordero de Dios\nSOL\tLA7\tRE\nque quitas el pecado del mundo"
+  },
+  {
+    "id": 50,
+    "titulo": "CORDERO RE (Woh Woh)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\nCordero de Dios\nSOL\tRE\nque quitas el pecado"
+  },
+  {
+    "id": 51,
+    "titulo": "CORDERO SOL (PAN CON LO MISMO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tSIm\tLAm\tDO\nCordero de Dios que quitas\nRE\nel pecado del mundo"
+  },
+  {
+    "id": 52,
+    "titulo": "CORDERO SOL (RITMICO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\nCordero de Dios\nSIm\tMIm\nque quitas el pecado del mundo-o"
+  },
+  {
+    "id": 53,
+    "titulo": "CRISTO TE EXALTO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nCristo te exalto,\nSOL\tLA\nte proclamo mi Rey"
+  },
+  {
+    "id": 54,
+    "titulo": "CRISTO TE NECESITA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nCristo te necesita para amar"
+  },
+  {
+    "id": 55,
+    "titulo": "DE AQUÍ HASTA EL FINAL",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nDe aquí hasta el final contigo de hoy hasta la eternidad"
+  },
+  {
+    "id": 56,
+    "titulo": "DE NOSOTROS SEÑOR TEN PIEDAD",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA7\tREm\nSeñor ten piedad de nosotros\nREm\tLA7\tREm\tRE7\nSeñor ten piedad de nosotros\nSOLm\tDO\tFA LA#\nDe nosotros Señor ten piedad\nSOLm\tLA7\tREm\nde nosotros Señor ten piedad\nCristo ten piedad de nosotros Cristo ten piedad de nosotros De nosotros…\nSeñor ten piedad de nosotros Señor ten piedad de nosotros De nosotros…"
+  },
+  {
+    "id": 57,
+    "titulo": "DEJA TU PATRIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nDeja tu patria, deja tu casa y ven tras de mi"
+  },
+  {
+    "id": 58,
+    "titulo": "DEMOS GRACIAS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tRE\nDemos gracias al Señor, demos gracias"
+  },
+  {
+    "id": 59,
+    "titulo": "DESCANSA EN DIOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA SIm MI LA\nDO#m Fa#m\nDescansa en Dios,"
+  },
+  {
+    "id": 60,
+    "titulo": "DIOS ES AMOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tLA\tRE\nDios es Amor, es Amor, Aleluya."
+  },
+  {
+    "id": 61,
+    "titulo": "DIOS ESTA AQUÍ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "C",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[C] [G] [Am] Dios está aquí\n[F] [G] [C] tan cierto como el aire que respiro"
+  },
+  {
+    "id": 62,
+    "titulo": "DIVINO ESPIRITU BAJAD",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tDO7\nDivino Espíritu bajad"
+  },
+  {
+    "id": 63,
+    "titulo": "DOBLE MI",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI-MI7 LA\tSI7\nAleluya\nMI\tDO#m\nAleluya\nFA#m SI7\tMI\n[A]-a-a-le-lu-u-u-ya"
+  },
+  {
+    "id": 64,
+    "titulo": "EL",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nÉl creó la tierra"
+  },
+  {
+    "id": 65,
+    "titulo": "EL CAMINABA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nÉl caminaba con sandalias en los pies"
+  },
+  {
+    "id": 66,
+    "titulo": "EL ESPÍRITU DE DIOS ESTÁ EN ESTE LUGAR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tLA\nEl Espíritu de Dios"
+  },
+  {
+    "id": 67,
+    "titulo": "EL MENSAJERO DE LA PAZ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tLA7\tRE\nES HERMOSO VER BAJAR DE LA MONTAÑA LOS PIES DEL MENSAJERO DE LA PAZ"
+  },
+  {
+    "id": 68,
+    "titulo": "EL NIÑO DEL TAMBOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nEl camino que lleva a Belén"
+  },
+  {
+    "id": 69,
+    "titulo": "EL PUEBLO GIME DE DOLOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA7\nEl pueblo gime de dolor"
+  },
+  {
+    "id": 70,
+    "titulo": "EL REGALO (MSP)",
+    "categoria": "Ofertorio",
+    "tonoOriginal": "MIm",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[MIm]Te ofrecemos, Se[SOL]ñor, este vino y este [RE]pan,\nel regalo que [DO]das a la humani[RE]dad,\npara [MIm]bien de nosotros hoy se converti[SOL]rán\nen tu Cuerpo y tu [RE]Sangre, fuente de eter[DO]nidad. RE\n\n[MIm]Bendito seas, Se[SOL]ñor, Dios del universo,\n[RE]por este pan, fruto de la [DO]tierra\ny del trabajo de los hombres. (2)\n\n[MIm]Bendito seas, Se[SOL]ñor, Dios del universo,\n[RE]por este vino, fruto de la [DO]vid\ny del trabajo de los hombres. (2)"
+  },
+  {
+    "id": 71,
+    "titulo": "EL SEÑOR ES MI PASTOR",
+    "categoria": "Salmo",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]El Señor [RE]es mi pastor\n[MIm]nada me falta\n[DO]El Se[LAm7]ñor es mi pas[RE]tor\n[SOL]El Señor [RE]es mi pastor\n[MIm]nada me falta\n[DO]El Se[RE]ñor es mi pas[SOL]tor [RE]\n\n[SOL]En praderas reposa mi alma\n[SIm]en su agua descansa mi sed\n[DO]él me guía por senderos justos\n[RE]por amor por amor de su nombre\n\n[SOL]Aunque pase por valles oscuros\n[SIm]ningún mal ningún mal temeré\n[DO]porque [LAm7]sé que el Señor va conmigo\n[RE]su cayado sostiene mi fe\n\n[SOL]Tú preparas por mí una mesa\n[SIm]frente a aquellos que buscan mi mal\n[DO]con aceite me ungiste Señor\n[RE]y mi copa rebosa por ti\n\n[SOL]Gloria a Dios Padre omnipotente\n[SIm]y a su hijo Jesús el Señor\n[DO]y al Es[LAm7]píritu que habita en el mundo\n[RE]por los siglos eternos amén"
+  },
+  {
+    "id": 72,
+    "titulo": "EL SEÑOR RESUCITO, ALELUYA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL RE\nEL SEÑOR RESUCITÓ, ¡ALELUYA!"
+  },
+  {
+    "id": 73,
+    "titulo": "EN JESUS PUSE TODA MI ESPERANZA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tSIm DO\nEn Jesús puse toda mi esperanza"
+  },
+  {
+    "id": 74,
+    "titulo": "EN SU MESA HAY AMOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\tLAm\nEl Señor nos ha reunido junto a él,\nFA\tDO\tSOL\nel Señor nos ha invitado a estar con él\nLAm\tMIm\nEn su mesa hay amor\nFA\tDO\nla promesa del perdón\nREm\tSOL7\tDO\ny en el vino y pan su corazón"
+  },
+  {
+    "id": 75,
+    "titulo": "ENCIENDE UNA LUZ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\nEnciende una luz\nLAm\ndéjala brillar"
+  },
+  {
+    "id": 76,
+    "titulo": "ENTRARE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tMIm\tDO\nEntraré, entraré, entraré\nLAm7\tRE\na su presencia"
+  },
+  {
+    "id": 77,
+    "titulo": "ENTRE TUS MANOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tMIm\tLA7\tRE\nENTRE TUS MANOS ESTÁ MI VIDA SEÑOR"
+  },
+  {
+    "id": 78,
+    "titulo": "ERES JESÚS",
+    "categoria": "Comunión",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]Oye amigo [SIm]mío, hoy vengo hasta ti\n[MIm]para compartir, mi [SIm]gran soledad\n[SOL]quiero [FA#m]que me [MIm]veas como un [DO]viejo a[RE]migo\nen el [DO]cual se[LAm]guro tu pue[RE]des confiar\n\n[SOL]Quiero que me [SIm]cuentes, esa linda historia\n[MIm]donde el ser humano, tiene [SIm]un buen final\nesa his[DO]toria em[RE]pieza en el [SOL]año [FA#m]ce[MIm]ro\ny aun[DO]que pase el tiempo, siempre [RE]será igual [SOL][SOL7]\n\n[DO]Has ve[RE]nido a dar [SOL]vida [SOL7]\n[DO]has ve[RE]nido a dar [SOL]luz [SOL7]\n[DO]y hoy puedo [RE]llenar mi [SOL]alma [FA#m]de ale[MIm]gría\npor[DO]que eres Je[RE]sús (2)\n\nTe acercaste a mí, fueron muchas veces\npara charlar conmigo, pero no escuché\ny aunque entre nosotros no puedo mentir\nyo te di la espalda, me rehusé a hablar\n\nPero no quisiera, seguir mi camino\nviendo que este mundo me está haciendo mal\ny a cada momento, se hace más pesado\nquiero que me ayudes, ya no dudaré\n\nHas venido a dar vida..."
+  },
+  {
+    "id": 79,
+    "titulo": "ES MI CUERPO, TOMAD Y COMED",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tRE\nES MI CUERPO, TOMAD Y COMED"
+  },
+  {
+    "id": 80,
+    "titulo": "ESPIRITU DE DIOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSI7\nEspíritu de Dios, llena mi vida"
+  },
+  {
+    "id": 81,
+    "titulo": "ESPIRITU DE DIOS SE MUEVE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nEl Espíritu de Dios se mueve"
+  },
+  {
+    "id": 82,
+    "titulo": "ESPIRITU SANTO VEN VEN",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tLA\nEspíritu Santo, ven, ven"
+  },
+  {
+    "id": 83,
+    "titulo": "ESTOY PENSANDO EN DIOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tDO#m\tSI7\nEstoy pensando en Dios,\nLA MI\nestoy pensando en su amor"
+  },
+  {
+    "id": 84,
+    "titulo": "ESTÁS AQUÍ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tMIm\tFA\tSOL\nEstás aquí aunque no te pueda ver"
+  },
+  {
+    "id": 85,
+    "titulo": "EUCARISTIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tLAm\tREm\tSOL7\nPan transformado en el Cuerpo de Cristo"
+  },
+  {
+    "id": 86,
+    "titulo": "FILOSOFO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tLAm\nJesucristo ven a mí\nFA\tSOL\nquiero que vengas a mi corazón"
+  },
+  {
+    "id": 87,
+    "titulo": "GLORIA 2000",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\nGloria, gloria a Dios en el cielo\nRE7\tSOL\ny en la tierra a los hombres paz (2)\nTe alabamos y te bendecimos te adoramos y glorificamos y nosotros hoy te damos gracias por tu grande y eterna gloria\nPorque tú eres el cordero y el pecado del mundo quitas ten piedad de nosotros y escuchas nuestra oración\nPorque solo tu eres santo solo tu altísimo Cristo y con el Espíritu Santo en la gloria de Dios padre"
+  },
+  {
+    "id": 88,
+    "titulo": "GLORIA DE LOS ANGELES",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nHoy a la tierra el cielo envía"
+  },
+  {
+    "id": 89,
+    "titulo": "GLORIA DO (Giombini)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO SOL DO DO-FA-SOL\nGlooooria (2)\nDO SOL\tLAm\tFA\na Dios en lo alto del cielo\nDO SOL  DO DO-FA-SOL\nGlooooria\nY en la tierra paz a los hombres que aman al Señor"
+  },
+  {
+    "id": 90,
+    "titulo": "GLORIA DO (RANCHERO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nGloria a Dios en lo alto del cielo\nFA\ny paz en la tierra\nSOL\na los hombres de buena voluntad."
+  },
+  {
+    "id": 91,
+    "titulo": "GLORIA FA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "FA\tLA#\tDO\nGloria Gloria Gloria al Señor\nFA\tLA#\tDO\nGloria Gloria Gloria a mi Dios (2)"
+  },
+  {
+    "id": 92,
+    "titulo": "GLORIA LA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tRE\tMI\tLA\tRE\nGloria a Dios, en las alturas y paz\nDO#m\tRE\tMI\tLA\nen la tierra, a los hombres de buena voluntad"
+  },
+  {
+    "id": 93,
+    "titulo": "GLORIA MIm (RÍTMICO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSOL\tMIm\nGloria gloria, a dios en el cielo,\nRE\tDO\tSI7\tMIm\ny en la tierra a los hombres paz. (2)"
+  },
+  {
+    "id": 94,
+    "titulo": "GLORIA POPULAR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA7\tRE\nGloria al Señor\nLA7\tRE-RE7\nque reina en el cielo\nSOL-SOLm\tRE SIm\n// y en la tierra paz\nMIm\tLA7\tRE\na los hombres que ama el (2)"
+  },
+  {
+    "id": 95,
+    "titulo": "GLORIA RE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL-LA-RE\nGloria a nuestro Dios en lo alto de los cielos\nSOL-LA-RE\nY en la tierra paz a los por el amados (2)"
+  },
+  {
+    "id": 96,
+    "titulo": "GLORIA RE (RITMICO DOBLE)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\nGloria\nSOL\tLA\tFA#m\tSIm\na Dios en el cielo y paz\nFA#m\tSOL\nen la tierra a los hombres\nLA\tRE\nde buena voluntad"
+  },
+  {
+    "id": 97,
+    "titulo": "GRACIAS JESUS, GRACIAS TE DOY",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tDO#m-RE\tMI\nGracias Jesús gracias te doy"
+  },
+  {
+    "id": 98,
+    "titulo": "GRACIAS TE DOY SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nGracias te doy Señor gracias te doy Señor"
+  },
+  {
+    "id": 99,
+    "titulo": "GRANDE ERES SEÑOR",
+    "categoria": "Alabanza",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]Quiero ala[RE]barte Señor\n[MIm]quiero exal[DO]tarte oh Dios\n[MIm]darte la [DO]gloria y honor\n[MIm]la ala[DO]banza y adora[SOL]ción... [RE]\n[DO]No hay nadie comparable\nA ti Se[SOL]ñor [RE]\n\n[SOL]Grande [RE]eres Señor\n[MIm]grande [DO]eres tú\n[SOL]No hay nadie compa[RE]rable\n[DO]a ti Se[SOL]ñor [MIm]// (2)\n\n[SOL]No hay nadie Señor\n[RE]no hay nadie Señor\n[MIm]no hay nadie Señor\n[DO]como tú (2)\n\n[RE]Grande eres Señor\n[DO]grande eres tú\n[SOL]No hay nadie compa[RE]rable\n[DO]a ti Se[SOL]ñor\n\n[SOL]No hay nadie Señor\n[RE]no hay nadie Señor\n[MIm]no hay nadie Señor\n[DO]como tú (4)\n\n[SOL]No hay nadie compa[RE]rable\n[DO]A ti Se[SOL]ñor (3)"
+  },
+  {
+    "id": 100,
+    "titulo": "HAY MOMENTOS",
+    "categoria": "Meditación",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Hay mo[SIm]mentos\nque las [MIm]palabras, no alcanzan,\npara decirte lo que [RE]siento\nbendito salva[LA7]dor\n\n[RE]Hay mo[SIm]mentos\nque las [MIm]palabras, no alcanzan,\npara decirte lo que [RE]siento\nbendito salva[RE7]dor\n\n[SOL]Señor [LA7]Yo te agra[FA#m]dezco\npor [SIm]todo lo que has hecho mi [LA7]Dios\npor [MIm]todo lo que haces\npor [RE]todo lo que ha[RE7]rás\n\n[SOL]Yo te agra[LA7]dezco Señor\n[FA#m]por todo lo que has [SIm]hecho mi Dios\n[MIm]por todo lo que [LA7]haces\npor todo lo que ha[RE]rás"
+  },
+  {
+    "id": 101,
+    "titulo": "HEMOS ENTREGADO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tLAm\nHemos entregado nuestras vidas al Señor\nFA\tSOL\tDO-SOL\nno hay mayor bendición que ser de El"
+  },
+  {
+    "id": 102,
     "titulo": "HEMOS VISTO AL SEÑOR",
     "categoria": "Pascua",
     "tonoOriginal": "SOL",
@@ -144,12 +918,1128 @@
     "letraConAcordes": "[SOL]La paz es[RE]té con us[MIm]tedes\n[DO]Como el Padre [LAm]me ha enviado a[RE]sí los envío yo.\n[SOL]Reci[RE]ban al Es[MIm]píritu Santo\n[DO]A ustedes en[LAm]trego el re[RE]galo, de perdonar\n\n[SOL]HEMOS [RE]VISTO AL SE[MIm]ÑOR, HEMOS VISTO AL SEÑOR\n[DO]ENTRE NO[LAm]SOTROS HA ES[RE]TADO Y LA PAZ NOS DESEÓ\n[SOL]HEMOS [RE]VISTO AL SE[MIm]ÑOR, HEMOS VISTO AL SEÑOR\n[DO]COMO EL [LAm]PADRE LO HA EN[RE]VIADO ÉL TAMBIÉN NOS ENVIÓ\n\n[SOL]Tomás no es[RE]taba con [MIm]ellos\n[DO]Cuando vi[LAm]no Je[RE]sús y a su lado se presentó\n[SOL]Si no veo la se[RE]ñal de los [MIm]clavos\n[DO]Y no me[LAm]to mi ma[RE]no en la herida, no creeré.\n\n[SOL]Reunidos a [RE]porta cer[MIm]rada\n[DO]Los dis[LAm]cípulos [RE]se encontraban, días después.\n[SOL]Tomás es[RE]taba con [MIm]ellos\n[DO]Cuando de [LAm]pronto Je[RE]sús, se les presentó\n\n[DO]Aquí es[RE]tá mis [SIm]manos [MIm]\n[DO]Acerca tu [LAm]dedo y tu [RE]mano, y no dudes más\n[DO]Señor [RE]y Dios [SIm]mío [MIm]\n[DO]Porque has vis[LAm]to tú crees, fe[RE]liz el que cree sin ver"
   },
   {
-    "id": 17,
+    "id": 103,
+    "titulo": "HONOR Y GLORIA DO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tSOL\nHonor y Gloria a ti Señor Jesús"
+  },
+  {
+    "id": 104,
+    "titulo": "HONOR Y GLORIA SOL",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tMIm\tLAm RE7\nHonor y Gloria a ti"
+  },
+  {
+    "id": 105,
+    "titulo": "HONOR, GLORIA y ALABANZA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tLA\nHonor, Gloria y Alabanza"
+  },
+  {
+    "id": 106,
+    "titulo": "HOY EL SEÑOR RESUCITO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL7\nHoy el Señor resucitó"
+  },
+  {
+    "id": 107,
+    "titulo": "HOY EN ORACION",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tREm\nHoy en oración"
+  },
+  {
+    "id": 108,
+    "titulo": "HOY QUIERO CAMBIAR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tLAm\nCuantas veces he rezado de rodillas"
+  },
+  {
+    "id": 109,
+    "titulo": "HOY QUIERO CANTARTE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tDO\nHoy quiero cantarte, Señora de los ángeles"
+  },
+  {
+    "id": 110,
+    "titulo": "HUMIL LENSE EN LA PRESCENCIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nHumíllense en la presencia del señor"
+  },
+  {
+    "id": 111,
+    "titulo": "JESUS ES MI PASTOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm-LA7-REm\tDO\nJesús es mi Pastor nada me faltara"
+  },
+  {
+    "id": 112,
+    "titulo": "JESÚS, HIJO DE DAVID",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\tSOL\tRE\nJesús Hijo de David, ten compasión de mí"
+  },
+  {
+    "id": 113,
+    "titulo": "JUNTO A TI MARIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\tLAm\nJunto a ti María."
+  },
+  {
+    "id": 114,
+    "titulo": "JUNTOS COMO HERMANOS",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tDO#m\nJUNTOS COMO HERMANOS\nMI\tSI7\nMIEMBROS DE LA IGLESIA\nMI\tSI7\tDO#m\tSOL#m\nVAMOS CAMINANDO\nFA#m\tSI7\tMI\nAL ENCUENTRO DEL SEÑOR.\nMI\tDO#m\nUn largo caminar\nLA\tFA#m\tSI7\npor el desierto bajo el sol\nMI\tSI7  DO#m\nno podemos avanzar\nFA#m\tSI7\tMI\nsin la ayuda del Señor.\nUnidos al rezar, unidos en una canción viviremos nuestra fe con la ayuda del Señor.\nLa Iglesia en marcha está a un mundo nuevo vamos ya donde reinará el amor donde reinará la paz."
+  },
+  {
+    "id": 115,
+    "titulo": "LA (Trigo y vid)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tRE\tMI\tLA\nAleluya, aleluya, alelu-u-ya\nLA\tRE\tMI\tLA-LAm\nAleluya, aleluya, alelu-u-ya"
+  },
+  {
+    "id": 116,
+    "titulo": "LA BURRA CHOCOLATERA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nHacia Belén va una burra rin rin"
+  },
+  {
+    "id": 117,
+    "titulo": "LA FE DE MARIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA#\tDO\tFA\nQue hubiese pasado"
+  },
+  {
+    "id": 118,
+    "titulo": "LA GUADALUPANA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tSI7\nDESDE EL CIELO UNA HERMOSA MAÑANA"
+  },
+  {
+    "id": 119,
+    "titulo": "LE LLAMAN JESUS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nHay un hombre que esta solo tiene triste la mirada"
+  },
+  {
+    "id": 120,
+    "titulo": "LLAGA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE\nBusco yo no sé que busco\nDO\tSI7\ncreo que es un rostro que una vez perdí"
+  },
+  {
+    "id": 121,
+    "titulo": "LLEGARÁ LA LIBERTAD",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\nCaminamos hacia el sol esperando la verdad"
+  },
+  {
+    "id": 122,
     "titulo": "LOS PASTORES A BELEN",
     "categoria": "Navidad",
     "tonoOriginal": "SOL",
     "linkYouTube": "",
     "archivoAudio": "",
     "letraConAcordes": "Los pastores a belen corren presurosos,\nllevan de tanto correr los zapatos rotos.\n\nAy ay ay, que alegres van,\nay ay ay si volveran.\nCon la pan pan pan con la de de de\ncon la pan con la de con la pandereta\ny las castañuelas.\n\nUn pastor se tropezó a media vereda\ny un borreguito grito este aqui se queda.\nya se van para belén A adorar al niño\nLas pastoras en el tren Y los pastorcillos.\n\nlos pastores a belén Casi, casi vuelan;\nY es que de tanto correr No les quedan suelas.\nUn mosquito le pico A un pastor muy flaco,\nY enojado le grito: de ti nada saco.\n\nAl llegar ante el portal Al niño adoraron;\nCon salero sin igual La jota bailaron.\nCorderito, leche y miel Al niño ofrecieron\nUn morralito también Con bollitos tiernos.\n\nSan José agradeció Todos los regalos,\nLa virgen les obsequio Con buñuelos largos.\nEl niño les sonrió, Lindo, muy contento\nLo besaron con fervor, Y se fueron yendo.\n\nEn un charco se cayo El buen tío Gabelo\nY de un tope lo saco Un borrego negro.\nDe un panal la miel robo, Un zagal muy bobo,\nEl enjambre le pico, Y quedo hecho un globo.\n\nBen Ali Baruch canto Y canto muy feo\nQue un chivote así berreo, ay, ay, ay me muero\nLos pastores vuelven ya De esperanzas llenos\nY de tanto caminar Ya no traen ni cueros.\n\nA sus nietos contaran El divino encuentro\nYa muy viejitos morirán, En paz y contentos.\n\nAy, ay, ay, que alegres van, ya por siempre cantaran\nCon la pan, pan, pan con la de, de, de\ncon la pan con la de con la pandereta y las castañuelas."
+  },
+  {
+    "id": 123,
+    "titulo": "LOS PECES EN EL RIO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nLa Virgen se está peinando entre cortina y cortina"
+  },
+  {
+    "id": 124,
+    "titulo": "MADRE ERES TERNURA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nMadre eres ternura eres una flor"
+  },
+  {
+    "id": 125,
+    "titulo": "MADRE OYEME",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA7\nMadre óyeme, mi plegaria es un grito en la noche"
+  },
+  {
+    "id": 126,
+    "titulo": "MANDA EL FUEGO SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tSI7\nManda el fuego Señor"
+  },
+  {
+    "id": 127,
+    "titulo": "MARIA MIRAME",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO SOL7\tDO\nMARÍA MÍRAME"
+  },
+  {
+    "id": 128,
+    "titulo": "MAS ALLA DEL SOL",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\tRE\nAunque en esta vida no tengo riquezas"
+  },
+  {
+    "id": 129,
+    "titulo": "MI CANTO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm\tSOL\nMi canto es de alegría aleluya\nFA\tMI7\nMi canto es de paz (2)"
+  },
+  {
+    "id": 130,
+    "titulo": "MI PENSAMIENTO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nMi pensamiento eres tu Señor"
+  },
+  {
+    "id": 131,
+    "titulo": "MILAGRO DE AMOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL RE\tMIm\tMIm7\nJesus, aqui presente en forma real"
+  },
+  {
+    "id": 132,
+    "titulo": "MIRAME SEÑOR",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\nMírame señor,\nLA\tSI7\tSOL#m\tDO#m LA\nque solo me encuentro en este mar,\nSI7\tSOL#m\tDO#m\nmira que mi barca es de cristal\nLA\tSI7\tMI-LA-MI MI7 LA\ny puede romperse antes de llegar\nSI7\tSOL#m\tDO#m LA\nEs tan frágil que sola no puede navegar\nSI7\tSOL#m DO#m\nnecesita del aliento de tu infinito amor\nLA\tSI7\tLA\tMI-LA-MI\npara sentirse segura, segura en ti mi Dios\nAyúdame señor a poder llevarla a su lugar ahora que me encuentro en soledad perdiéndome en la bruma de mi lento navegar"
+  },
+  {
+    "id": 133,
+    "titulo": "MIS PECADOS SON TU CRUZ",
+    "categoria": "Cuaresma / Penitencial",
+    "tonoOriginal": "MI",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "TE MIRO, CON GESTO DE DOLOR\nCREO QUE ME PUEDO VER EN TU ROSTRO SEÑOR\nCRISTO ESTOY AQUÍ DÁNDOME CUENTA DE\nLO MUCHO QUE FALLÉ Y QUE MIS PECADOS SON\nLOS QUE TE IMPONEN ESA CRUZ\nY TUS MANOS CLAVE CUANDO TE NEGUE\nSÉ QUE MI ODIO ES TU DOLOR\nMÁS AÚN ASÍ ME DAS EL PERDÓN\nTU CORAZÓN TIENE UN LUGAR\nQUE HAS HECHO PARA MÍ Y ME LO QUIERES DAR\nY ME HACE PENSAR QUE SI MEREZCO YO\nRECIBIR SEÑOR LA SALVACIÓN ASÍ"
+  },
+  {
+    "id": 134,
+    "titulo": "MISERE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO REm\tSOL DO\tREm DO\tSOL\nMisericordia, Señor, que he pecado"
+  },
+  {
+    "id": 135,
+    "titulo": "NADIE TE AMA COMO YO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tMI\tFA#m\nCuanto he esperado este momento"
+  },
+  {
+    "id": 136,
+    "titulo": "NIÑA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nNiña que nació limpia de pecado"
+  },
+  {
+    "id": 137,
+    "titulo": "NO TENGAS MIEDO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nNo tengas miedo de abrir tu corazón"
+  },
+  {
+    "id": 138,
+    "titulo": "NOCHE DE PAZ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nNoche de paz, noche de amor"
+  },
+  {
+    "id": 139,
+    "titulo": "OFRENDA DE AMOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tDO\nPor los niños que empiezan la vida\nFA\tSOL\npor los hombres sin techo ni hogar\nDO\tFA\tDO\npor los pueblos que sufren la guerra\nFA\tSOL\tDO-DO7\nte ofrecemos el vino y le pan"
+  },
+  {
+    "id": 140,
+    "titulo": "OH MARIA, MADRE MIA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\n¡Oh María! ¡Madre mía!"
+  },
+  {
+    "id": 141,
+    "titulo": "OH SEÑOR TEN PIEDAD",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tRE#dim\tMIm\tLA7\nOh Señor ten piedad (ten piedad)\nRE\nten piedad de nosotros (2)\nOh Cristo ten piedad (ten piedad) ten piedad de nosotros (2)\nOh Señor ten piedad (ten piedad) ten piedad de nosotros (2)\nSIm\nmis palabras de perdón\nSOL\nqueriéndote decir Cristo estoy aquí\nSeño-or ten piedad, ten pieda-ad se que escucharás mi voz\nCristo ten piedad, ten pieda-ad se que escucharás mi voz\nSeño-or ten piedad, ten pieda-ad se que escucharás mi voz"
+  },
+  {
+    "id": 142,
+    "titulo": "PACTO DE ESPRANZA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm7\nMe sorprende, Señor\nMIm\tLA7\nhallarte tan pequeño"
+  },
+  {
+    "id": 143,
+    "titulo": "PEDIR POSADA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nEn el nombre del cielo os pido posada"
+  },
+  {
+    "id": 144,
+    "titulo": "PERDON OH DIOS MIO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA7\nPerdón, oh Dios mío, perdón"
+  },
+  {
+    "id": 145,
+    "titulo": "PERDONA A TU PUEBLO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA7\nPerdona a tu pueblo, Señor"
+  },
+  {
+    "id": 146,
+    "titulo": "PIEDAD, PIEDAD SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SIm\tLA\nPiedad, piedad Señor\nSIm\tLA SOL\npiedad, piedad Señor\nFA#\tSIm\nhemos pecado contra ti\nSIm\tLA\nPiedad, piedad Señor (ten piedad)\nSIm\tLA SOL\npiedad, piedad Señor (ten piedad)\nFA#\tSIm\nhemos pecado contra ti\nSIm\tLA\nCristo ten piedad, Cristo ten piedad\nSOL\tFA#\nCristo ten piedad de mi (2)\nSIm\tLA\nPiedad, piedad Señor\nSIm\tLA SOL\npiedad, piedad Señor\nFA#\tSIm\nhemos pecado contra ti"
+  },
+  {
+    "id": 147,
+    "titulo": "PIENSO EN TI",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tDO\nPienso ti"
+  },
+  {
+    "id": 148,
+    "titulo": "PUEDE HACERLO OTRA VEZ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nPuede hacerlo otra vez"
+  },
+  {
+    "id": 149,
+    "titulo": "QUE ALEGRÍA",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "A",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\tRE7\nQUE ALEGRÍA ES VENIR\nSOL-FA#m-MIm\n[A] LA CASA DE DIOS\nDO\tRE7\nQUE ALEGRÍA ES PARTICIPAR\nSOL-DO-SOL\nDEL PAN DE DIOS\nDO\tRE7\tSOL-FA#m-MIm\nVengamos todos a la casa de Dios\nDO\tRE7\tSOL-DO-SOL\ncantar alegres con un mismo amor\nPorque el señor con nosotros esta y nueva vida él nos dará"
+  },
+  {
+    "id": 150,
+    "titulo": "QUE ALEGRÍA CUANDO ME DIJERON",
+    "categoria": "Entrada",
+    "tonoOriginal": "MIm",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[MIm]Qué ale[LAm]gría [MIm]cuando me di[SI7]jeron\n[MIm]vamos [SI7]a la casa del Se[MIm]ñor\n[MIm]permaneciendo en [LAm]Jerusalén\n[SI7]en las puertas de la casa de [MIm]Dios (2)\n\n[MIm]Mira oh Je[SI7]rusalén\nOra por paz Jerusalén\n[LAm]y prosperidad a tu [MIm]casa\n[SI7]paz dentro de tus murallas\n[LAm]que solo de Dios [MIm]viene\n[LAm]la ciudad restau[MIm]rada\n[SI7]aquí las tribus de Yavé\n[LAm]son una en el Se[MIm]ñor\n\n[MIm]Como lo ordenó a Is[SI7]rael\n[LAm]vienen a alabar su [MIm]nombre\n[SI7]aquí donde la justicia\n[LAm]la justicia de David [MIm]reina"
+  },
+  {
+    "id": 151,
+    "titulo": "QUIERO ALABARTE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tMIm\nQuiero alabarte más y más aun"
+  },
+  {
+    "id": 152,
+    "titulo": "RECIBE SEÑOR",
+    "categoria": "Ofertorio",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Señor te ofre[LA]cemos nuestros [SOL]dones\n[SOL]Queremos con[MIm]sagrarlos para [LA]ti\n[SOL]Señor trans[LA]forma nuestra ofre[RE]nda\nEn re[SOL]medio de [LA]eterni[RE]dad [FA#m][SIm]\n\n[SOL]Recibe Se[LA]ñor estas of[RE]rendas [SI7]\n[SOL]Y sálva[MIm]nos oh Padre con la [LA]fuerza de tu amor\n[SOL]Toma este [LA]pan y este [RE]vino [FA#m]oh Se[SIm]ñor\n[SOL]Acépta[LA]los desde tu cora[RE]zón\n\n[RE]Atiende los de[LA]seos de tu [SOL]pueblo [LA]\n[MIm]Y al escuchar nuestras ple[SOL]garias\n[SOL]Vuelve hacia [LA]ti nuestro cora[RE]zón [FA#m][SIm]\n[SOL]Que como in[LA]cienso suba esta ora[RE]ción. [LAm][RE7]\n\nRecibe Señor estas ofrendas (2)"
+  },
+  {
+    "id": 153,
+    "titulo": "RECIBE SEÑOR ESTA OFRENDA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSI7\n// Recibe señor esta ofrenda,\nMIm\nRecibe señor esta ofrenda // (2)"
+  },
+  {
+    "id": 154,
+    "titulo": "RENDID HONOR AL SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL RE MIm\tDO\nRendid honor al Señor"
+  },
+  {
+    "id": 155,
+    "titulo": "RENUEVAME",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tSOL\nRenuévame Señor Jesús"
+  },
+  {
+    "id": 156,
+    "titulo": "RESUCITO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE\nRESUCITO, RESUCITO"
+  },
+  {
+    "id": 157,
+    "titulo": "REUNIDOS EN EL NOMBRE DEL SEÑOR",
+    "categoria": "Entrada",
+    "tonoOriginal": "SOL",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[SOL]Reunidos en el [DO]nombre del Se[SOL]ñor\nque nos ha congre[DO]gado [LA7]ante su al[RE]tar\n[LAm]// cele[RE7]bremos el mis[SOL]terio de la [MIm]fe\nbajo el [RE7]signo del a[SOL]mor y la u[LAm]nidad. //\n\n[SOL]Tú, Se[RE]ñor, da sen[SOL]tido a nuestra vida\n[MIm]tu pre[LA7]sencia nos a[RE]yuda a caminar\n[SOL]tu Pa[SI7]labra es [MIm]fuente de agua viva\nque no[DO]sotros, se[LAm]dientos\na tu [RE7]mesa ve[DO]nimos [RE7]a bus[SOL]car\n\n[SOL]Puri[DO]fica con tu [SOL]gracia nuestras [RE]manos\n[MIm]ilumina nuestra [LA7]mente con tu luz\n[SOL]y la [MIm]fe se for[SI7]talezca en tu palabra\n[DO]y tu cuerpo, [LAm]tomado en ali[RE7]mento\nnos [DO]tra[RE7]iga la sa[SOL]lud"
+  },
+  {
+    "id": 158,
+    "titulo": "SABED QUE UNA VIRGEN",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nSabed que una virgen concebirá"
+  },
+  {
+    "id": 159,
+    "titulo": "SABER QUE VENDRAS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\nEn este mundo que Cristo nos da"
+  },
+  {
+    "id": 160,
+    "titulo": "SACRAMENTO DE UNION",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tMI\tFA#m\nTe agradezco el poder estar aquí"
+  },
+  {
+    "id": 161,
+    "titulo": "SALIENDO DEL PRETORIO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE-RE7\tSOL\nSaliendo del pretorio"
+  },
+  {
+    "id": 162,
+    "titulo": "SANTA MARÍA DEL CAMINO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tDO\nMientras recorres la vida tú nunca solo estás"
+  },
+  {
+    "id": 163,
+    "titulo": "SANTO DE LOS QUERUBINES",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSI7\nSanto, santo, santo dicen los querubines\nMIm\nsanto, santo, santo es nuestro rey Yahvé."
+  },
+  {
+    "id": 164,
+    "titulo": "SANTO LAm (6)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm\nSanto, Santo, Santo\nSOL\tLAm\nSanto, Santo, Santo (2)"
+  },
+  {
+    "id": 165,
+    "titulo": "SANTO LAm (POPULAR)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm\tSOL\nSanto santo santo\nFA\tMI7\nsanto es el Señor (2)"
+  },
+  {
+    "id": 166,
+    "titulo": "SANTO MIm",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm RE\tMIm\nSanto, santo\nMIm\tRE\tMIm\nsanto es el Señor"
+  },
+  {
+    "id": 167,
+    "titulo": "SANTO MIm (ERES TU SEÑOR)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE\nSanto, Santo,\nMIm\tRE\nSanto, Santo\nDO\tSI7\tMIm\neres tú Señor (2)"
+  },
+  {
+    "id": 168,
+    "titulo": "SANTO RE (LA TIERRA, EL MAR Y EL CIELO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tFA#m\nSanto es el Señor\nSOL\tLA7\nel creador del universo entero"
+  },
+  {
+    "id": 169,
+    "titulo": "SANTO RE (Mujeres)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nSanto, santo\nLA7\tRE\tRE7\nsanto es el Seño-o-or"
+  },
+  {
+    "id": 170,
+    "titulo": "SANTO RE (RITMICO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tFA#m\nSan - to\nSOL\tLA7\tRE\nsanto es el Señor (2)"
+  },
+  {
+    "id": 171,
+    "titulo": "SANTO SIm",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SIm\tMIm\tLA7\tRE\nSan - to,  sa-a-anto\nDios poderoso del universo"
+  },
+  {
+    "id": 172,
+    "titulo": "SANTO SIm Rítmico",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SIm\tSI7\tMIm\nSanto sa-a-a-a-anto\nFA#7\nsanto es el Señor"
+  },
+  {
+    "id": 173,
+    "titulo": "SANTO SOL (SANTO ERES TU)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tMIm\nSanto, santo eres tú\nDO\tRE7\nsanto eres tú, Señor mi Dios"
+  },
+  {
+    "id": 174,
+    "titulo": "SANTO SOL (SANTO, SANTO EN EL CIELO)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\nSanto, santo en el cielo\nSOL\tRE7  SOL\nSanto es el Señor (2)"
+  },
+  {
+    "id": 175,
+    "titulo": "SANTO SOLm (FA#m)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tRE\nSanto es el Señor mi Dios\nDO\tSI7\ndigno de alabanza"
+  },
+  {
+    "id": 176,
+    "titulo": "SE SIENTE AQUÍ",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tSI7\nSe siente aquí"
+  },
+  {
+    "id": 177,
+    "titulo": "SEGURO DE DIOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nDesde que llego Jesucristo a mí"
+  },
+  {
+    "id": 178,
+    "titulo": "SEÑOR LAm",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm\tLA7\tREm\nSeñor ten piedad de nosotros\nSOL7\tDO MI7\nSeñor ten piedad\nLAm\tLA7\tREm\nSeñor ten piedad de nosotros\nMI7\tLAm\nSeñor ten piedad\nLAm\tSOL\nCristo ten piedad de nosotros\nFA\tMI7\nCristo ten piedad\nCristo ten piedad de nosotros Cristo ten piedad\nSeñor ten piedad…"
+  },
+  {
+    "id": 179,
+    "titulo": "SEÑOR MIm",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tLAm\tMIm SI7 MIm\nSEÑOR TEN PIEDAD DE NOSO - O -TROS (2)\nSOL\tLAm\tMIm SI7 MIm\nCRISTO TEN PIEDAD DE NOSO-O-TROS (2) SEÑOR TEN PIEDAD DE NOSO - O -TROS (2)"
+  },
+  {
+    "id": 180,
+    "titulo": "SEÑOR RE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nSeñor ten piedad\nSOL\tLA7\nde nosotros ten piedad\nRE\tSIm\nSeñor ten piedad\nSOL\tLA7\tRE\nde nosotros ten piedad\nCristo ten piedad de nosotros ten piedad\nSeñor ten piedad…"
+  },
+  {
+    "id": 181,
+    "titulo": "SEÑOR REm RITMICO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tFA\tLA7\tREm LA7 REm\nSeñor Señor ten piedad de noso - o - tros\nLA#\tFA\nCristo ten piedad\nLA7\tREm LA7 REm\nTen piedad de noso - o - tros //2 veces"
+  },
+  {
+    "id": 182,
+    "titulo": "SEÑOR SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSI7\tMIm\nSeñor Señor piedad piedad\nMIm\tSI7\tMIm MI7\nSeñor Señor piedad piedad\nLAm\tMIm\nSeñor Señor Señor Señor\nSI7\tMIm\tSI7\tMIm MI7\npiedad piedad, piedad Señor"
+  },
+  {
+    "id": 183,
+    "titulo": "SEÑOR SOL",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tRE\nSeñor ten piedad de nosotros\nMIm\tDO\nSeñor ten piedad de nosotros\nLAm\tLA7\tRE\nSeñor ten piedad de nosotros\nCristo ten piedad de nosotros Cristo ten piedad de nosotros Cristo ten piedad de nosotros\nSOL\tRE\nSeñor ten piedad de nosotros\nMIm\tDO\nSeñor ten piedad de nosotros\nLAm\tLA7\tRE\tRE7 SOL\nSeñor ten piedad de nosotro – o – os"
+  },
+  {
+    "id": 184,
+    "titulo": "SI EL PECADO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nSi el pecado llega a tu corazón"
+  },
+  {
+    "id": 185,
+    "titulo": "SI ESPIRITU DE DIOS SE MUEVE EN MI",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MIm\tSI7\nSi el Espíritu de Dios se mueve en mi"
+  },
+  {
+    "id": 186,
+    "titulo": "SI QUIERES PUEDES LIMPIARME",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tRE\nSi quieres puedes limpiarme"
+  },
+  {
+    "id": 187,
+    "titulo": "SIGUE LA LUZ (Vocacional)",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nDios te ha escogido hoy, tienes que partir"
+  },
+  {
+    "id": 188,
+    "titulo": "SOÑADOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm SOL\nYo era un pobre soñador"
+  },
+  {
+    "id": 189,
+    "titulo": "TE DOY GRACIAS JESUS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nTe doy gracias Jesús por haberme encontrado"
+  },
+  {
+    "id": 190,
+    "titulo": "TE ENTREGO",
+    "categoria": "Meditación",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Haz lo que [SOL]quieras con[RE]migo\n[SOL]haz lo que quieras de [LA7]mí\n[RE]hoy yo te ofrezco mi vida\n[SOL]hoy yo me [LA7]rindo ante ti. (2)\n\n[RE]Te entrego [LA7]todo lo que soy\n[SIm]todo lo que tengo\n[FA#m]todo lo que quiero\n[SOL]y todo lo que sueño\n[LA7]a ti señor Jesús. (2)\n\n[RE]Te entrego, [LA7]te en[RE]trego."
+  },
+  {
+    "id": 191,
+    "titulo": "TE ENTREGO (Tono LA)",
+    "categoria": "Meditación",
+    "tonoOriginal": "LA",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[LA]Haz lo que [RE]quieras con[LA]migo\n[RE]haz lo que quieras de [MI]mí\n[LA]hoy yo te ofrezco mi vida\n[RE]hoy yo me [SI7]rindo ante ti. (2)\n\n[MI]Te entrego [SI7]todo lo que soy\n[DO#m]todo lo que tengo\n[SOL#m]todo lo que quiero\n[LA]y todo lo que sueño\n[SI7]a ti señor Jesús. (2)\n\n[MI]Te entrego, [SI7]te en[MI]trego."
+  },
+  {
+    "id": 192,
+    "titulo": "TE OFRECEMOS PADRE NUESTRO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tDO\nTe ofrecemos, padre nuestro\nSOL7\ncon el vino y con el pan nuestras penas y alegrías,\nDO\nel trabajo y nuestro afán. (2)"
+  },
+  {
+    "id": 193,
+    "titulo": "TE PRESENTAMOS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tSIm\tDO\tSOL\nTe presentamos el vino y el pan\nDO  SOL\tRE\tSOL\nbendito seas por siempre, Señor."
+  },
+  {
+    "id": 194,
+    "titulo": "TEN PIEDAD SEÑOR TEN PIEDAD LAm",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm\tREm\tLAm\nTen piedad Señor ten piedad\nFA\tSOL\tLAm\nsoy pecador, ten piedad //(2)\nFA\tSOL\tDO\nY de mi Cristo apiádate contra ti yo pequé\nFA\tSOL\tDO-MI7\nY de mi Cristo apiádate contra ti yo pequé"
+  },
+  {
+    "id": 195,
+    "titulo": "TOMA MI VIDA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tFA#m\nEsto que te doy\nSOL\tLA\tSOL\nes vino y pan Señor\nRE\tLA\tSOL\nesto que te doy es mi trabajo"
+  },
+  {
+    "id": 196,
+    "titulo": "TOMA MIS LAGRIMAS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nFrente a ti, junto a la cruz"
+  },
+  {
+    "id": 197,
+    "titulo": "TOMAD, SEÑOR Y RECIBID",
+    "categoria": "Ofertorio",
+    "tonoOriginal": "RE",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[RE]Tomad, Se[LA7]ñor y reci[SIm]bid\n[SOL]la ofrenda que traigo\n[LA7]pan y vino al altar (bendito seas)\n[LA7]Que pronto se converti[SIm]rán\n[SOL]en tu Cuerpo y tu Sangre\n[LA7]don de tu santidad (bendito seas)\n\n[SOL]Traigo junto al [LA7]pan y a este [SIm]vino\n[SOL]la alegría que [LA7]tengo de servirte Señor,\n[SOL]te pido que me [LA7]aceptes con [SOL]ellos, [SIm]\n[LA7]gracias por invitarme a esta fiesta de amor.\n\n[RE]Tomad, Señor y recibid...\n\n[SOL]Traigo junto al [LA7]pan y a este [SIm]vino\n[SOL]el dolor de las [LA7]almas que no saben de ti.\n[SOL]también las inten[LA7]ciones de [SIm]tantos\n[SOL]para que los ben[LA7]digas, les des de tu paz.\n\n[LA7]Tomad, Se[SIm]ñor y recibid..."
+  },
+  {
+    "id": 198,
+    "titulo": "TOMADO DE LA MANO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA\nTomado de la mano con Jesús yo voy"
+  },
+  {
+    "id": 199,
+    "titulo": "TOMALO ACEPTALO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tLA SOL\tLA\nHoy Señor venimos a ofrecerte\nRE\tLA SOL\neste humilde pan,"
+  },
+  {
+    "id": 200,
+    "titulo": "TRANSFIGURAME",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tMIm\nTransfigúrame Señor"
+  },
+  {
+    "id": 201,
+    "titulo": "TU AMOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tMIm\nTu amor está cambiando mi vida"
+  },
+  {
+    "id": 202,
+    "titulo": "TU SEÑOR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LA\tMI\nTú, Señor, sabes bien\nRE\tMI\tLA\nlo que yo tengo guardado en mi interior"
+  },
+  {
+    "id": 203,
+    "titulo": "TÚ QUE SIEMPRE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SIm\nTú que siempre nos PERDONAS\nLA\tSIm\nporque nos quieres mucho\nMIm\tSIm\ntu que siempre nos perdonas\nSOL LA\tSIm\tSOL LA\tSIm\nSeñor ten pie-dad, Señor ten pie-dad\nTú que siempre nos ESCUCHAS porque nos quieres mucho tu que siempre nos escuchas Cristo ten piedad, Cristo ten piedad\nTú que siempre nos AYUDAS porque nos quieres mucho tu que siempre nos ayudas Señor ten piedad, Señor ten piedad"
+  },
+  {
+    "id": 204,
+    "titulo": "TÚ REINARÁS",
+    "categoria": "Cristo Rey",
+    "tonoOriginal": "MI",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "[MI]Tú reinarás este es el grito\n[LA]Que ardiente ex[SI7]hala nuestra fe.\n[MI]Tú reinarás oh Rey Bendito\n[LA]Pues tú di[SI7]jiste reinaré\n\n[MI]REINE JE[SI7]SÚS POR SIEMPRE,\n[FA#]REINE SU [SI7]CORA[MI]ZÓN\nEN [LA]NUESTRA PATRIA EN [MI]NUESTRO SUELO\n[LA]ES DE MA[SI7]RÍA LA NA[MI]CIÓN (bis)\n\nTu reinarás dulce esperanza\nQue al alma llena de placer\nHabrá por fin paz y bonanza\nFelicidad habrá doquier.\n\nTu reinarás dichosa era\nDichoso pueblo con tal rey\nSerá tu cruz nuestra bandera\nTu amor será nuestra ley\n\nTu reinarás en este suelo\nTe prometemos nuestro amor\nOh buen Jesús, danos consuelo\nEn este valle de dolor"
+  },
+  {
+    "id": 205,
+    "titulo": "UN DIA CAMINABA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nUn día caminaba muy triste por ahí"
+  },
+  {
+    "id": 206,
+    "titulo": "UN NIÑO SE TE ACERCO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSOL\nUn niño se te acercó aquella tarde"
+  },
+  {
+    "id": 207,
+    "titulo": "UN PUEBLO QUE CAMINA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tLA#\nUN PUEBLO QUE CAMINA POR EL MUNDO"
+  },
+  {
+    "id": 208,
+    "titulo": "UNA ESPIGA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\tDO\nUna espiga dorada por el sol"
+  },
+  {
+    "id": 209,
+    "titulo": "UNA JOVEN NAZARENA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tFA#m\tSOL\nUna joven nazarena que rezaba"
+  },
+  {
+    "id": 210,
+    "titulo": "UNA VOZ CLAMA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "REm\tSOLm\nUna voz clama en el yermo"
+  },
+  {
+    "id": 211,
+    "titulo": "VAMOS",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\tMIm\nVAMOS, VAMOS, VAMOS,\nLA7\tRE\nVAMOS AL ALTAR,\nSIm\tMIm\nAL ALTAR DE DIOS\nLA7\tRE\nQUE EN CRISTO TENEMOS\nSIm\tMIm\nNUESTRA ALEGRIA\nLA7\tRE\nY NUESTRA JUVENTUD\nSIm\tMIm\nLA RA LA LA LA\nLA7\tRE\nNUESTRA JUVENTUD\nCristo, Cristo, Cristo, nos ofrecerá, nos ofrecerá su verdad y vida con su palabra cantaremos ya la ra la la la cantaremos ya\nGloria, gloria, gloria, al dios del amor al dios del amor que nos ha reunido en torno a su mesa y ser nuestro pan la ra la la la y ser nuestro pan\nCanta, canta, canta, a Cristo Jesús a Cristo Jesús que ha resucitado y ya victorioso presente aqui esta la ra la la la presente aqui esta"
+  },
+  {
+    "id": 212,
+    "titulo": "VAMOS CANTAD",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tDO#m\nVamos cantad\nLA\ncantemos en la paz\nSI7\nde Mi Señor Jesús\nMI\tDO#m\nY que el amor de Dios se torne en\nLA\tSI7\nnuestras vidas luz\nSOL#m DO#m\nEs tan bueno estar aquí\nLA\tSI7\njuntos cantando al señor\nSOL#m DO#m\nsoltando nuestra voz y así\nLA\tSI7\nexaltar un Dios de amor (2)\n—Vamos gozad\nEs tan bueno estar aquí (es tan bueno estar aquí) juntos cantando al señor soltando nuestra voz y así (soltando nuestra) exaltar un Dios de amor (2)\n—Vamos alabad\n—Vamos adorad"
+  },
+  {
+    "id": 213,
+    "titulo": "VEN SEÑOR JESUS",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "A",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tFA\nVEN SEÑOR JESUS VEN JUNTO [A] MI"
+  },
+  {
+    "id": 214,
+    "titulo": "VEN SEÑOR NO TARDES",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\nVEN, VEN, SEÑOR, NO TARDES"
+  },
+  {
+    "id": 215,
+    "titulo": "VEN SEÑOR NO TARDES EN LLEGAR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "DO\tSOL\tDO\nVen señor no tardes en llegar"
+  },
+  {
+    "id": 216,
+    "titulo": "VENIMOS A ADORAR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tMIm\tLA7\nEl Rey del Universo"
+  },
+  {
+    "id": 217,
+    "titulo": "VENIMOS ANTE TI",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\n//VENIMOS ANTE TI SEÑOR\nFA#m\nCON CORAZONES SINCEROS\nSOL\tLA7\nLLENOS DE ALABANZA\nRE\tLA7\nY DE ADORACIÓN // (2)\nRE7\tSOL\tLA\n// Porque tú eres Rey de Reyes\nFA#m SIm\ny Señor de señores\nMIm\tLA7\nsolo tú eres digno\nRE\nde que todos te adoren //\nLA7\tRE\tSOL RE\nVENIMOS ANTE TI SEÑOR"
+  },
+  {
+    "id": 218,
+    "titulo": "VENIMOS HOY A TU ALTAR",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "A",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tMIm\nVENIMOS HOY [A] TU ALTAR\nDO\tRE7\n[A] CANTARTE SEÑOR\nDO\tSOL\n//PUES TÚ ERES LA ALEGRÍA\nRE7\tSOL – SOL7\nDE NUESTRO CORAZÓN// (2).\nSOL\tMIm\nTÚ hiciste los cielos los llenas de estrellas de luz y calor.\nTÚ pintaste la aurora hiciste las nubes las puestas del sol.\nTÚ creaste la risa la paz y la dicha la felicidad.\nTÚ al darnos la vida nos das las riquezas tu eterna amistad.\nTÚ nos diste a tu Madre nos diste tu Cuerpo tu sangre en manjar. TÚ nos diste esperanza la fe y nos hiciste capaces de amar."
+  },
+  {
+    "id": 219,
+    "titulo": "VI AGUA",
+    "categoria": "Bautismo / Aspersión",
+    "tonoOriginal": "MI",
+    "linkYouTube": "https://youtu.be/q0ACrctVWQ0",
+    "archivoAudio": "",
+    "letraConAcordes": "[MI]Rocíanos, Se[SI7]ñor, con tu [LA]bendi[MI]ción,\n[FA#m]rocíanos [DO#m]con tu [LA]amor. [SI7]Ale[MI]luya. (2)\n\n[DO#m]Vi agua bro[SOL#m]tar del lado de[LA]recho del [SI7]Temp[MI]lo,\n[SOL#m]renueva, [LA]Dios de [FA#7]amor, nuestro bau[SI7]tismo.\n\nVi que tus elegidos recibían el agua,\nsantifica, Dios de amor, nuestra vida.\n\nVi surgir vida nueva en todo tu pueblo,\nsalva, Dios de amor, a todos tus hijos.\n\nVi cantar con gozo a todos los renacidos,\npurifica, Dios de amor, a tu Santa Iglesia\n\n[DO#m]Gloria al Padre, y al Hijo, y al Espíritu Santo,\na Tí la alabanza por siempre, Señor."
+  },
+  {
+    "id": 220,
+    "titulo": "VIENEN CON ALEGRIA",
+    "categoria": "Cantos De Entrada",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\nVIENEN CON ALEGRÍA, SEÑOR,\nMI7\nCANTANDO VIENEN CON ALEGRIA, SEÑOR,\nLA\tLAm\tMI\tDO#m\n//LOS QUE CAMINAN POR LA VIDA, SEÑOR,\nFA#m\tSI7\tMI – MI7\nSEMBRANDO TU PAZ Y AMOR. //(2)\nMI\tSI7\nVienen trayendo la esperanza a un mundo cargado de ansiedad,\nSI7\nun mundo que busca y que no alcanza caminos de amor y de amistad.\nVienen trayendo entre sus manos esfuerzos de hermanos por la paz, deseos de un mundo más humano que nacen del bien y la verdad.\nCuando el odio y la violencia aniden en nuestro corazón, el mundo sabrá que por herencia le aguardan tristezas y dolor."
+  },
+  {
+    "id": 221,
+    "titulo": "VINO Y PAN",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "LAm\tREm LAm\tSOL DO\nVino y pan en oblación\nFA\tLA#\tSOL\nesperan el milagro del Señor"
+  },
+  {
+    "id": 222,
+    "titulo": "VIVA VIVA VIVA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tDO\tRE\nMontado en un asna y su cría"
+  },
+  {
+    "id": 223,
+    "titulo": "VIVIR",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tMIm\tLA7\tRE\nPor que no ves crecer las flores"
+  },
+  {
+    "id": 224,
+    "titulo": "YA LLEGO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "MI\tSI7\nYa llegó, ya llegó"
+  },
+  {
+    "id": 225,
+    "titulo": "YO LO RESUCITARE",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "SOL\tSIm\nYo soy el Pan de vida"
+  },
+  {
+    "id": 226,
+    "titulo": "YO NO SOY NADA",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "RE\tSIm\nYo no soy nada y del polvo nací"
+  },
+  {
+    "id": 227,
+    "titulo": "YO TE ADORO",
+    "categoria": "Ten Piedad",
+    "tonoOriginal": "",
+    "linkYouTube": "",
+    "archivoAudio": "",
+    "letraConAcordes": "FA\nHe podido comprender\nLAm\nque solo con tu poder"
   }
 ]
